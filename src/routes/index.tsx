@@ -7,9 +7,17 @@ import { TIMELINE } from "../data/timeline";
 import type { Term, UnitId } from "../data/types";
 import { isSupabaseConfigured, supabase } from "../integrations/supabase/client";
 import QUESTION_DATA from "../data/apEuroQuestions.json";
+import CHRONOLOGY_DATA from "../data/chronologies.json";
+import KEY_TERM_DATA from "../data/key_terms.json";
+import ChronologiesView from "../components/ChronologiesView";
+import KeyTermsSuite from "../components/KeyTermsSuite";
 
 export const Route = createFileRoute("/")({ component: Index, head: () => ({ meta: [{ title: "AP Euro Mastery Hub" }, { name: "description", content: "Your personal command center for AP European History." }] }) });
-type View = "study" | "timeline" | "exam";
+type View = "study" | "timeline" | "exam" | "chronologies" | "key-terms";
+type Chapter = { chapter:number; title:string; events:{date:string;event:string}[] };
+type KeyTerm = {term:string;definition:string;page:string};
+const CHAPTERS = (CHRONOLOGY_DATA as {chapters:Chapter[]}).chapters;
+const KEY_CHAPTERS = Object.entries((KEY_TERM_DATA as {ap_euro_key_terms:Record<string,{title:string;terms:KeyTerm[]}>}).ap_euro_key_terms).map(([id,value])=>({id,chapter:Number(id.replace("chapter_","")),...value}));
 type Question = { unit: UnitId; prompt: string; stimulus?: string; choices: string[]; answer: number; explanation: string; distractors?: string[] };
 type QuestionGroup = { unit: string; questions: { id: number; type: string; stimulus: string | null; question: string; options: string[]; correctIndex: number; explanation: string }[] };
 const QUESTION_UNITS: Record<string, UnitId> = {
@@ -42,12 +50,13 @@ function shuffleQuestions(pool: Question[]) {
   }
   return shuffled;
 }
-const VIEWS: {id:View;label:string;icon:typeof BookOpen}[] = [{id:"study",label:"Study guide hub",icon:BookOpen},{id:"timeline",label:"Interactive timeline",icon:Clock3},{id:"exam",label:"Practice exam arena",icon:Target}];
+const VIEWS: {id:View;label:string;icon:typeof BookOpen}[] = [{id:"study",label:"Study guide hub",icon:BookOpen},{id:"timeline",label:"Interactive timeline",icon:Clock3},{id:"chronologies",label:"Textbook chronologies",icon:Clock3},{id:"key-terms",label:"Key terms study suite",icon:Bookmark},{id:"exam",label:"Practice exam arena",icon:Target}];
 
 function Index(){
  const [session,setSession]=useState<{email:string;id:string;role:string}|null>(null); const [profileOpen,setProfileOpen]=useState(false);
  const [authMode,setAuthMode]=useState<"login"|"signup">("signup"); const [authEmail,setAuthEmail]=useState(""); const [authPassword,setAuthPassword]=useState(""); const [authError,setAuthError]=useState(isSupabaseConfigured?"":"Supabase is not configured for this deployment. Add VITE_SUPABASE_URL and VITE_SUPABASE_PUBLISHABLE_KEY to the Vercel project, then redeploy."); const [authBusy,setAuthBusy]=useState(false); const [showPassword,setShowPassword]=useState(false);
  const [view,setView]=useState<View>("study"); const [dark,setDark]=useState(false); const [search,setSearch]=useState(""); const [openUnits,setOpenUnits]=useState<string[]>(["renaissance"]); const [selected,setSelected]=useState<Term|null>(null); const [mastered,setMastered]=useState<string[]>([]); const [era,setEra]=useState("all"); const [event,setEvent]=useState<(typeof TIMELINE)[number]|null>(null); const [examStarted,setExamStarted]=useState(false); const [activeQuestions,setActiveQuestions]=useState<Question[]>([]); const [questionUnit,setQuestionUnit]=useState<UnitId|"all">("all"); const [questionCount,setQuestionCount]=useState<10|20|40>(10); const [examComplete,setExamComplete]=useState(false); const [reviewMistakes,setReviewMistakes]=useState(false); const [qIndex,setQIndex]=useState(0); const [choice,setChoice]=useState<number|null>(null); const [answers,setAnswers]=useState<number[]>([]); const [bookmarks,setBookmarks]=useState<number[]>([]); const [secondsLeft,setSecondsLeft]=useState(20*60); const [scores,setScores]=useState<{score:number;total:number;byUnit:Record<string,{right:number;total:number}>;date:string}[]>([]); const [flashcard,setFlashcard]=useState(false); const [celebrate,setCelebrate]=useState(false);
+ const [chronologyChapter,setChronologyChapter]=useState(CHAPTERS[0]?.chapter??12); const [termsChapter,setTermsChapter]=useState("all"); const [termMode,setTermMode]=useState<"flashcards"|"test">("flashcards"); const [testType,setTestType]=useState<"mcq"|"typed">("mcq"); const [termIndex,setTermIndex]=useState(0); const [termAnswer,setTermAnswer]=useState(""); const [termRevealed,setTermRevealed]=useState(false); const [termScore,setTermScore]=useState(0); const [termTestDone,setTermTestDone]=useState(false);
  useEffect(()=>{if(!isSupabaseConfigured)return;let alive=true;supabase.auth.getSession().then(({data})=>{if(alive&&data.session)setSession({email:data.session.user.email??"",id:data.session.user.id,role:data.session.user.role??"authenticated"});});const {data:{subscription}}=supabase.auth.onAuthStateChange((_event,next)=>{if(alive)setSession(next?{email:next.user.email??"",id:next.user.id,role:next.user.role??"authenticated"}:null);});return()=>{alive=false;subscription.unsubscribe();};},[]);
  useEffect(()=>{if(!session)return;let alive=true;Promise.all([supabase.from("user_mastery").select("term_id").eq("user_id",session.id),supabase.from("quiz_results").select("score,total,by_unit,created_at").eq("user_id",session.id).order("created_at",{ascending:false}).limit(20)]).then(([masteryResult,scoresResult])=>{if(!alive)return;if(masteryResult.error||scoresResult.error){setAuthError(masteryResult.error?.message??scoresResult.error?.message??"Could not load your cloud progress.");return;}setMastered((masteryResult.data??[]).map(row=>row.term_id));setScores((scoresResult.data??[]).map(row=>({score:row.score,total:row.total,byUnit:row.by_unit as Record<string,{right:number;total:number}>,date:row.created_at})));});return()=>{alive=false;};},[session?.id]);
  const filtered=useMemo(()=>{const q=search.trim().toLowerCase(); if(!q)return TERMS; return TERMS.filter(t=>{const text=`${t.term} ${t.def} ${t.sig} ${t.figures} ${t.ap} ${unitById[t.unit].title}`.toLowerCase();return text.includes(q)||q.split(/\s+/).every(word=>text.includes(word)||text.split(/[^a-z0-9]+/).some(part=>isSubsequence(word,part)));});},[search]);
