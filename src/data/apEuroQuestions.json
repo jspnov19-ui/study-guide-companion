@@ -1,0 +1,2852 @@
+[
+  {
+    "unit": "Renaissance",
+    "questions": [
+      {
+        "id": 1,
+        "type": "stimulus",
+        "stimulus": "\"It is much safer to be feared than loved, if you cannot be both... for love is held by a chain of obligation which, men being selfish, is broken whenever it serves their purpose; but fear is maintained by a dread of punishment which never fails.\" — Niccolò Machiavelli, The Prince, 1513",
+        "question": "Which of the following historical developments best explains the political context behind Machiavelli's argument in the passage above?",
+        "options": [
+          "The unification of Italy under a stable constitutional monarchy",
+          "The fragmentation of Italy into competing, unstable city-states vulnerable to foreign invasions",
+          "The absolute dominance of the Catholic Church over Italian secular monarchs",
+          "The rejection of classical Roman political theory by northern Italian merchant oligarchs"
+        ],
+        "correctIndex": 1,
+        "explanation": "Machiavelli wrote The Prince during the Italian Wars, when politically fragmented Italian city-states were repeatedly invaded by powerful centralized monarchies like France and Spain."
+      },
+      {
+        "id": 2,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "In what primary way did Northern Renaissance Christian humanism differ from early Italian Renaissance humanism?",
+        "options": [
+          "Northern humanists focused exclusively on secular architecture and pagan mythology.",
+          "Northern humanists applied humanist textual criticism to early Christian writings to advocate for church and social reform.",
+          "Italian humanists rejected classical Greek and Roman philosophy entirely.",
+          "Northern humanists opposed the use of the printing press to spread vernacular translations of the Bible."
+        ],
+        "correctIndex": 1,
+        "explanation": "Christian humanists such as Desiderius Erasmus and Thomas More combined classical scholarship with early Christian texts to call for moral and institutional reform within the Catholic Church."
+      },
+      {
+        "id": 3,
+        "type": "stimulus",
+        "stimulus": "\"To man it is allowed to have whatever he chooses, to be whatever he wills. Beasts as soon as they are born bring with them from their mother's womb all they will ever possess... On man when he came into life the Father conferred the seeds of all kinds and the germs of every way of life.\" — Giovanni Pico della Mirandola, Oration on the Dignity of Man, 1486",
+        "question": "The excerpt above best exemplifies which core Renaissance intellectual concept?",
+        "options": [
+          "Predestination",
+          "Scholasticism",
+          "Individualism and human potential",
+          "Divine right absolutism"
+        ],
+        "correctIndex": 2,
+        "explanation": "Pico della Mirandola's Oration is a foundational manifesto of Renaissance humanism and individualism, celebrating human free will and limitless capacity for self-fashioning."
+      },
+      {
+        "id": 4,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "How did the rise of the 'popolo' in 13th- and 14th-century Italian city-states ultimately contribute to the emergence of 'signori'?",
+        "options": [
+          "The popolo voluntarily surrendered civic authority to the Holy Roman Emperor to avoid taxation.",
+          "Chronic violent class conflict between the disenfranchised popolo and the merchant oligarchies created instability that allowed strongmen (signori) to seize despotic control.",
+          "The popolo established permanent egalitarian democracies across Milan, Venice, and Florence.",
+          "The signori were elected exclusively by the peasant classes of rural southern Italy."
+        ],
+        "correctIndex": 1,
+        "explanation": "When the popolo (working and middle classes) rebelled against wealthy merchant oligarchies, the resulting civic chaos enabled military strongmen and wealthy dynasties (signori) to take over as sole rulers while maintaining republican facades."
+      },
+      {
+        "id": 5,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "Which of the following best describes the political and cultural function of Renaissance courts, such as those in Urbino and Mantua?",
+        "options": [
+          "They served as democratic assemblies where guilds voted on municipal laws.",
+          "They acted as centers of artistic patronage where rulers displayed wealth, sophistication, and legitimacy to bolster their political power.",
+          "They functioned solely as monastic retreats isolated from secular politics.",
+          "They enforced strict sumptuary laws prohibiting luxury goods and secular painting."
+        ],
+        "correctIndex": 1,
+        "explanation": "Renaissance princes used lavish courts and artistic patronage (hiring painters, architects, and humanists) to project magnificence, prestige, and political legitimacy."
+      },
+      {
+        "id": 6,
+        "type": "stimulus",
+        "stimulus": "\"Your sheep, that were wont to be so meek and tame, and so small eaters, now, as I hear say, be become so great devourers and so wild, that they eat up, and swallow down the very men themselves. They consume, destroy, and devour whole fields, houses, and cities.\" — Thomas More, Utopia, 1516",
+        "question": "In the passage above, Thomas More is primarily critiquing which socio-economic development in early 16th-century England?",
+        "options": [
+          "The spread of Lutheranism among English tenant farmers",
+          "The enclosure of common agricultural lands for profitable wool production, which displaced poor peasants",
+          "The imposition of the Continental System by foreign monarchs",
+          "The abolition of the guild system by Parliament"
+        ],
+        "correctIndex": 1,
+        "explanation": "In Book I of Utopia, Thomas More condemns the early enclosure movement in England, where landlords evicted peasants from common lands to raise sheep for the lucrative wool trade."
+      },
+      {
+        "id": 7,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "Which artistic innovation most sharply distinguished Italian Renaissance painting from medieval European art?",
+        "options": [
+          "The exclusive use of gold-leaf backgrounds to symbolize heavenly light",
+          "The mathematical application of linear perspective and anatomical naturalism to create three-dimensional depth",
+          "The complete abandonment of Christian religious subjects in favor of industrial landscapes",
+          "The rejection of oil paints in favor of fresco on wooden panels"
+        ],
+        "correctIndex": 1,
+        "explanation": "Italian Renaissance artists like Masaccio, Leonardo da Vinci, and Michelangelo pioneered linear perspective, chiaroscuro, and anatomical realism based on classical models."
+      },
+      {
+        "id": 8,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "Jan van Eyck and Albrecht Dürer are best known in AP European History for which of the following contributions?",
+        "options": [
+          "Leading the Florentine Neoplatonic Academy under Lorenzo de' Medici",
+          "Exemplifying the Northern Renaissance through oil painting mastery, intricate natural detail, and printmaking",
+          "Designing the dome of the Florence Cathedral using Roman engineering principles",
+          "Writing treatises defending papal supremacy against conciliarism"
+        ],
+        "correctIndex": 1,
+        "explanation": "Jan van Eyck (Flanders) perfected oil painting with luminous, microscopic detail, while Albrecht Dürer (Germany) blended Italian proportion theory with Northern engraving and woodcut mastery."
+      },
+      {
+        "id": 9,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "Why was the adoption of the vernacular by writers such as Dante, Petrarch, and Boccaccio significant during the Renaissance?",
+        "options": [
+          "It eliminated the study of classical Latin and Greek among humanist scholars.",
+          "It made literature accessible to a broader lay audience and fostered distinct regional and national cultural identities.",
+          "It was mandated by the Council of Trent to standardize Catholic liturgy.",
+          "It prevented the spread of Renaissance ideas outside of Tuscany."
+        ],
+        "correctIndex": 1,
+        "explanation": "Writing in vernacular Italian (and later French, English, and German) expanded literacy and readership beyond the Latin-educated clergy, laying foundations for national literatures."
+      },
+      {
+        "id": 10,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "In late-15th-century Spain, the term 'New Christians' (conversos) referred to which group?",
+        "options": [
+          "Indigenous peoples of the Americas forcibly converted by Spanish conquistadors",
+          "Jews and Muslims who converted to Christianity, often under duress, and faced ongoing suspicion from the Spanish Inquisition",
+          "French Huguenots who fled to Castile after the Edict of Nantes",
+          "Italian humanists invited to teach at the University of Salamanca"
+        ],
+        "correctIndex": 1,
+        "explanation": "Conversos ('New Christians') were Spanish Jews (and Moriscos from Islam) who converted to Catholicism; Ferdinand and Isabella established the Spanish Inquisition in 1478 largely to police their orthodoxy."
+      },
+      {
+        "id": 11,
+        "type": "stimulus",
+        "stimulus": "\"We are obliged to yield to the ancients in many things, yet in this one thing we surpass them: we have discovered the art of printing, which preserves every thought and multiplies books beyond the reach of fire or time.\"",
+        "question": "The technological innovation referenced in the quote had which of the following immediate consequences in Europe between 1450 and 1550?",
+        "options": [
+          "A sharp decline in vernacular literacy rates across urban centers",
+          "The rapid dissemination of humanist treatises, classical texts, and Protestant reform ideas across Europe",
+          "The strengthening of Church censorship over all European universities",
+          "The collapse of commercial banking networks in northern Italy"
+        ],
+        "correctIndex": 1,
+        "explanation": "Johannes Gutenberg's movable-type printing press (c. 1450s) dramatically lowered the cost of books, accelerating the spread of Renaissance humanism and later fueling the Protestant Reformation."
+      },
+      {
+        "id": 12,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "How did 'secularism' manifest during the Italian Renaissance?",
+        "options": [
+          "Most Renaissance artists and humanists became outspoken atheists who rejected Christianity.",
+          "Thinkers and patrons placed greater emphasis on worldly experiences, civic life, and material beauty alongside religious faith.",
+          "The Medici family abolished all churches and monasteries in Florence.",
+          "European monarchs banned religious themes from all commissioned artwork."
+        ],
+        "correctIndex": 1,
+        "explanation": "Renaissance secularism did not mean atheism; rather, it represented a shift toward valuing the material world, human achievement, and civic engagement rather than viewing life solely as preparation for the afterlife."
+      },
+      {
+        "id": 13,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "Which of the following accurately contrasts Leonardo da Vinci and Michelangelo Buonarroti?",
+        "options": [
+          "Leonardo worked exclusively in Venice, while Michelangelo worked solely in Flanders.",
+          "Leonardo exemplified the empirical 'Renaissance Man' combining art with scientific anatomy and engineering, whereas Michelangelo emphasized heroic, muscular human forms in sculpture and fresco.",
+          "Michelangelo rejected all papal commissions, while Leonardo painted exclusively for Pope Julius II.",
+          "Both artists rejected classical Greco-Roman models in favor of Gothic abstraction."
+        ],
+        "correctIndex": 1,
+        "explanation": "Leonardo da Vinci combined painting (Mona Lisa, Last Supper) with anatomical dissection and mechanical design, while Michelangelo (David, Sistine Chapel ceiling) was renowned for sculptural power and idealized human anatomy."
+      },
+      {
+        "id": 14,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "What economic factor primarily enabled Italian city-states like Florence, Venice, and Genoa to become the cradle of the Renaissance?",
+        "options": [
+          "Extensive silver mines discovered in the Apennine Mountains",
+          "Their strategic monopoly over Mediterranean trade routes with the Byzantine and Islamic worlds and advanced banking networks",
+          "Heavy agricultural subsidies provided by the Holy Roman Emperor",
+          "Early industrialization of textile factories powered by steam engines"
+        ],
+        "correctIndex": 1,
+        "explanation": "Wealth accumulated from Mediterranean spice and luxury trade, wool manufacturing, and international banking (such as the Medici bank) funded the massive artistic and scholarly patronage of the Italian Renaissance."
+      },
+      {
+        "id": 15,
+        "type": "stimulus",
+        "stimulus": "\"Let the Courtier therefore be trained in arms and horsemanship, yet let him also be well versed in the humanities, able to write in both verse and prose, and skilled in music and painting, concealing his effort with a certain nonchalance (sprezzatura).\" — Baldassare Castiglione, The Book of the Courtier, 1528",
+        "question": "Castiglione's work reflects which broader social transformation in 16th-century Europe?",
+        "options": [
+          "The replacement of hereditary nobility with elected peasant councils",
+          "The transformation of the medieval feudal warrior-knight into a refined, educated aristocrat serving a prince's court",
+          "The requirement that all European clergy marry and raise families",
+          "The decline of vernacular literature among the European upper classes"
+        ],
+        "correctIndex": 1,
+        "explanation": "Castiglione's Book of the Courtier established the ideal of the well-rounded 'Renaissance gentleman,' reflecting how nobles adapted to centralized princely courts through education, manners, and cultural refinement."
+      },
+      {
+        "id": 16,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "In Lorenzo Valla's 1440 treatise exposing the 'Donation of Constantine' as a forgery, which humanist methodology did he employ?",
+        "options": [
+          "Alchemical experimentation",
+          "Philology (historical and linguistic analysis of texts)",
+          "Scholastic syllogisms derived from Aristotle",
+          "Empirical astronomical observation"
+        ],
+        "correctIndex": 1,
+        "explanation": "Lorenzo Valla used philology—analyzing anachronistic Latin vocabulary and grammar—to prove that the Donation of Constantine could not have been written in the 4th century, undermining papal territorial claims."
+      },
+      {
+        "id": 17,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "Why did wealthy merchants and bankers like Cosimo and Lorenzo de' Medici spend vast fortunes on public buildings, churches, and artwork in Florence?",
+        "options": [
+          "To comply with mandatory tax exemptions granted by the Ottoman Sultan",
+          "To glorify their family name, gain civic prestige, and deflect criticism of their wealth and usury",
+          "To fund peasant rebellions against the Papacy",
+          "To establish public universities open exclusively to women"
+        ],
+        "correctIndex": 1,
+        "explanation": "Civic humanism and patronage allowed wealthy elites like the Medici to burnish their public reputation, demonstrate civic virtue, and atone for banking practices (usury) frowned upon by the Church."
+      },
+      {
+        "id": 18,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "Which of the following best describes the status of women during the Renaissance, as argued by historian Joan Kelly?",
+        "options": [
+          "Elite women gained full legal equality and voting rights in Italian republics.",
+          "While a few noblewomen received humanist educations, women generally experienced a contraction of social and political autonomy compared to the feudal Middle Ages.",
+          "Women dominated the major craft guilds and banking houses of Florence and Bruges.",
+          "The printing press was outlawed for female authors across Western Europe."
+        ],
+        "correctIndex": 1,
+        "explanation": "Despite exceptional figures like Isabella d'Este and Laura Cereta, Renaissance women were increasingly confined to the domestic sphere and excluded from public civic life and universities."
+      },
+      {
+        "id": 19,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "How did Machiavelli's political philosophy represent a sharp break from medieval political treatises?",
+        "options": [
+          "He argued that rulers must strictly obey Christian morality even if it destroys the state.",
+          "He separated politics from Christian ethics, analyzing power based on realistic human behavior and political expediency ('virtù').",
+          "He advocated for the immediate abolition of all standing armies and militias.",
+          "He argued that the Pope should hold supreme temporal authority over all European kings."
+        ],
+        "correctIndex": 1,
+        "explanation": "Unlike medieval 'mirror for princes' texts that urged rulers to be pious and moral, Machiavelli analyzed politics secularly and empirically—focusing on how rulers actually maintain power rather than how they ought to behave."
+      },
+      {
+        "id": 20,
+        "type": "stimulus",
+        "stimulus": "\"I am amazed that some people think women are incapable of learning... If a girl is given the same instruction in letters as a boy, she will achieve the same excellence in the liberal arts.\" — Laura Cereta, Letter to Bibulus Sempronius, 1488",
+        "question": "Laura Cereta's argument illustrates which tension within Renaissance humanism?",
+        "options": [
+          "The conflict between Catholic clergy and Protestant reformers over predestination",
+          "The contradiction between humanist ideals of universal human potential and the exclusion of women from formal scholarly institutions",
+          "The rivalry between Spanish conquistadors and Portuguese navigators",
+          "The debate between mercantilists and laissez-faire economists"
+        ],
+        "correctIndex": 1,
+        "explanation": "Female humanists like Laura Cereta and Christine de Pizan challenged male humanists who praised human intellect in theory while denying women access to classical education and public intellectual life."
+      }
+    ]
+  },
+  {
+    "unit": "Reformation",
+    "questions": [
+      {
+        "id": 21,
+        "type": "stimulus",
+        "stimulus": "\"Christians are to be taught that he who gives to the poor or lends to the needy does a better deed than he who buys indulgences. Because love grows by works of love, man thereby becomes better. Man does not, however, become better by means of indulgences, but is merely freed from penalties.\" — Martin Luther, 95 Theses, 1517",
+        "question": "Luther's critique in the passage above directly challenged which late-medieval Catholic practice and theological assumption?",
+        "options": [
+          "The doctrine of transubstantiation during the Eucharist",
+          "The sale of indulgences by figures like Johann Tetzel to fund St. Peter's Basilica and reduce time in Purgatory",
+          "The mandatory celibacy of monastic orders in northern Germany",
+          "The authority of the Council of Trent over papal decrees"
+        ],
+        "correctIndex": 1,
+        "explanation": "Luther's 95 Theses attacked the commercial sale of indulgences authorized by Pope Leo X to finance St. Peter's Basilica, arguing that salvation comes through faith alone (sola fide), not financial transactions."
+      },
+      {
+        "id": 22,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "Which of the following best explains why many northern German princes converted to Lutheranism in the 1520s and 1530s?",
+        "options": [
+          "They sought to strengthen the centralized authority of Holy Roman Emperor Charles V.",
+          "Converting allowed them to assert political autonomy from the Emperor and confiscate lucrative Catholic Church lands and monasteries.",
+          "Pope Leo X offered tax exemptions to German princes who adopted Luther's German Bible.",
+          "They wanted to support the radical social equality demanded by the German Peasants' War."
+        ],
+        "correctIndex": 1,
+        "explanation": "Beyond religious conviction, German princes saw Lutheranism as a political and economic opportunity to break free from Habsburg imperial control and seize vast Church estates."
+      },
+      {
+        "id": 23,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "How did Martin Luther respond to the German Peasants' War of 1524–1525?",
+        "options": [
+          "He personally led the peasant armies against the Swabian League.",
+          "He condemned the rebels harshly in 'Against the Robbing and Murdering Hordes of Peasants,' insisting Christian freedom was spiritual, not social rebellion.",
+          "He petitioned the Pope to abolish serfdom across the Holy Roman Empire.",
+          "He merged Lutheranism with Thomas Müntzer's radical Anabaptist movement."
+        ],
+        "correctIndex": 1,
+        "explanation": "Fearing social anarchy and needing the protection of German princes, Luther violently denounced the peasant rebels and urged princes to crush the revolt."
+      },
+      {
+        "id": 24,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "What was the central theological distinction between Lutheranism and John Calvin's Reformed theology?",
+        "options": [
+          "Calvinists retained all seven Catholic sacraments, whereas Lutherans kept only two.",
+          "Calvin emphasized double predestination—the belief that God has already eternally chosen the 'elect' for salvation and the 'reprobate' for damnation.",
+          "Lutherans rejected the authority of Scripture, while Calvinists relied on papal infallibility.",
+          "Calvinists believed salvation could be earned exclusively through charitable donations."
+        ],
+        "correctIndex": 1,
+        "explanation": "While both accepted justification by faith and scriptural authority, Calvin placed absolute divine sovereignty and predestination at the center of his Institutes of the Christian Religion."
+      },
+      {
+        "id": 25,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "How did Presbyterianism in Scotland, led by John Knox, organize church governance?",
+        "options": [
+          "Under the supreme authority of the English monarch as head of the church",
+          "Through representative councils of elders (presbyters) rather than a hierarchy of bishops appointed by a king",
+          "Through direct appointment of parish priests by the Roman Inquisition",
+          "By abolishing all organized churches in favor of private household worship"
+        ],
+        "correctIndex": 1,
+        "explanation": "John Knox brought Calvinism to Scotland, establishing the Presbyterian Church governed by assemblies of ministers and lay elders (presbyters) rather than bishops."
+      },
+      {
+        "id": 26,
+        "type": "stimulus",
+        "stimulus": "\"Albeit the King's Majesty justly and rightfully is and ought to be the supreme head of the Church of England, and so is recognized by the clergy of this realm in their Convocations...\" — Act of Supremacy, 1534",
+        "question": "The legislation excerpted above was primarily triggered by which of the following events?",
+        "options": [
+          "Henry VIII's desire to annul his marriage to Catherine of Aragon after Pope Clement VII refused to grant it",
+          "Elizabeth I's defeat of the Spanish Armada in the English Channel",
+          "The invasion of England by Scottish Calvinist armies",
+          "The publication of Thomas More's treatise defending Lutheranism"
+        ],
+        "correctIndex": 0,
+        "explanation": "The English Reformation began primarily as a dynastic and political dispute when Pope Clement VII (under pressure from Charles V) refused to annul Henry VIII's marriage to Catherine of Aragon."
+      },
+      {
+        "id": 27,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "Which of the following accurately describes the religious policy of England under Queen Mary I (r. 1553–1558)?",
+        "options": [
+          "She established Calvinism as the mandatory state religion of England.",
+          "She restored papal authority and Catholicism, executing hundreds of Protestants and earning the nickname 'Bloody Mary.'",
+          "She issued the Edict of Nantes granting full religious toleration to Puritans.",
+          "She dissolved the remaining Catholic monasteries and distributed their lands to London merchants."
+        ],
+        "correctIndex": 1,
+        "explanation": "Mary I, daughter of Henry VIII and Catherine of Aragon, aggressively reversed her brother Edward VI's Protestant reforms, returning England to Catholicism and burning nearly 300 Protestants at the stake."
+      },
+      {
+        "id": 28,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "Which of the following was a major outcome of the Council of Trent (1545–1563) during the Catholic Counter-Reformation?",
+        "options": [
+          "The Catholic Church compromised with Luther by accepting justification by faith alone and clerical marriage.",
+          "The Council reaffirmed traditional Catholic doctrines (seven sacraments, transubstantiation, salvation by faith and works) while reforming clerical corruption and banning the sale of indulgences.",
+          "The Papacy abolished the Society of Jesus and the Roman Inquisition.",
+          "Latin was replaced by local vernacular languages in all Catholic Masses."
+        ],
+        "correctIndex": 1,
+        "explanation": "The Council of Trent made no doctrinal concessions to Protestants—reaffirming transubstantiation, purgatory, and all seven sacraments—but instituted strict internal reforms, creating seminaries for priest education and curbing indulgence abuses."
+      },
+      {
+        "id": 29,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "What role did the Society of Jesus (Jesuits), founded by Ignatius of Loyola, play in the 16th and 17th centuries?",
+        "options": [
+          "They led Protestant peasant uprisings in Bohemia and Hungary.",
+          "They acted as elite missionaries, educators, and advisors to Catholic monarchs, reconverting parts of Central Europe and spreading Catholicism globally.",
+          "They advocated for the separation of church and state and religious toleration for Anabaptists.",
+          "They compiled the Protestant Augsburg Confession."
+        ],
+        "correctIndex": 1,
+        "explanation": "Taking a vow of absolute obedience to the Pope, the Jesuits established prestigious schools, served as royal confessors, halted Protestantism in Poland and southern Germany, and carried out missions in Asia and the Americas."
+      },
+      {
+        "id": 30,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "How did the Catholic Church utilize Baroque art and architecture during the Counter-Reformation?",
+        "options": [
+          "By stripping churches of all statues, paintings, and stained glass to emphasize austerity",
+          "By commissioning dramatic, emotional, and ornate works designed to inspire awe, devotion, and sensory engagement among worshippers",
+          "By banning religious themes in favor of Dutch still-life domestic scenes",
+          "By requiring all churches to be built in small, unadorned timber styles"
+        ],
+        "correctIndex": 1,
+        "explanation": "In contrast to Protestant iconoclasm and plain churches, Baroque art (e.g., Bernini, Caravaggio) used dramatic lighting, movement, and grandeur to emotionally draw viewers back to the Catholic faith."
+      },
+      {
+        "id": 31,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "What was 'anticlericalism' in early 16th-century Europe, and how did it contribute to the Reformation?",
+        "options": [
+          "A movement among bishops to abolish the Holy Roman Empire",
+          "Widespread resentment toward the wealth, immorality, pluralism, and absenteeism of Catholic priests and popes, which made laypeople receptive to reform",
+          "A papal decree banning laypeople from reading the Latin Vulgate",
+          "The belief that monarchs should be ordained as Catholic priests"
+        ],
+        "correctIndex": 1,
+        "explanation": "Pre-Reformation resentment against corrupt, poorly educated, or absentee clergy (anticlericalism) created fertile ground for Luther and other reformers to challenge Church authority."
+      },
+      {
+        "id": 32,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "Why were Anabaptists viewed as dangerous radicals by both Catholics and mainstream Protestants (Lutherans and Calvinists)?",
+        "options": [
+          "They demanded the restoration of papal temporal power over Germany.",
+          "They rejected infant baptism, advocated complete separation of church and state, and often practiced pacifism or communal property.",
+          "They insisted that only Latin should be spoken in European courts.",
+          "They formed a military alliance with the Spanish Inquisition."
+        ],
+        "correctIndex": 1,
+        "explanation": "Anabaptists ('rebaptizers') believed only consenting adults could be baptized and rejected state control over religion, threatening the unified church-state social order of 16th-century Europe."
+      },
+      {
+        "id": 33,
+        "type": "stimulus",
+        "stimulus": "\"Unless I am convinced by the testimony of the Scriptures or by clear reason (for I do not trust either in the pope or in councils alone, since it is well known that they have often erred and contradicted themselves), I am bound by the Scriptures I have quoted and my conscience is captive to the Word of God.\" — Martin Luther, Diet of Worms, 1521",
+        "question": "Luther's declaration at the Diet of Worms established which foundational principle of Protestantism?",
+        "options": [
+          "Sola scriptura (Scripture alone as the sole infallible authority for Christian faith)",
+          "Cuius regio, eius religio (whose realm, his religion)",
+          "Papal supremacy over ecumenical councils",
+          "The divine right of kings to alter Biblical canon"
+        ],
+        "correctIndex": 0,
+        "explanation": "By rejecting the infallibility of popes and church councils in favor of individual conscience guided by the Bible, Luther articulated the core Protestant doctrine of sola scriptura."
+      },
+      {
+        "id": 34,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "What was the primary purpose of the Roman Inquisition (established in 1542) and the Index of Prohibited Books?",
+        "options": [
+          "To translate Protestant hymns into Italian for Catholic congregations",
+          "To suppress heresy, censor Protestant and heretical texts, and enforce Catholic orthodoxy across Italy and Catholic territories",
+          "To negotiate a theological merger between Calvinists and Jesuits",
+          "To distribute wealth from Vatican banks to poor German peasants"
+        ],
+        "correctIndex": 1,
+        "explanation": "Reorganized by Pope Paul III in 1542, the Roman Inquisition (Holy Office) and the Index of Prohibited Books aimed to halt the spread of Protestantism and unorthodox ideas through censorship and judicial prosecution."
+      },
+      {
+        "id": 35,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "How did the Protestant Reformation generally impact marriage and the status of women in Protestant territories?",
+        "options": [
+          "Women were ordained as Lutheran and Calvinist ministers in equal numbers to men.",
+          "Monasteries and convents were closed, removing an alternative career/educational path for women, while marriage and motherhood were elevated as a sacred Christian calling.",
+          "Divorce was strictly outlawed for the first time in European history.",
+          "Protestant reformers encouraged women to remain celibate nuns."
+        ],
+        "correctIndex": 1,
+        "explanation": "By abolishing clerical celibacy and closing convents, Protestants praised marriage and family life, but simultaneously narrowed women's roles primarily to wife and mother within patriarchal households."
+      },
+      {
+        "id": 36,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "In Geneva, John Calvin established the Consistory primarily to:",
+        "options": [
+          "Supervise overseas colonial trade with the Americas",
+          "Monitor and enforce strict public and private moral discipline among citizens, punishing behaviors like dancing, gambling, and heresy",
+          "Elect representatives to the Holy Roman Imperial Diet",
+          "Train Catholic missionaries for service in Spain"
+        ],
+        "correctIndex": 1,
+        "explanation": "The Genevan Consistory, composed of lay elders and pastors, policed citizens' moral conduct and religious orthodoxy to create a model Christian community ('City of Saints')."
+      },
+      {
+        "id": 37,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "Why did the Protestant Reformation succeed in spreading so rapidly across Europe compared to earlier medieval reform movements like those of Jan Hus or John Wycliffe?",
+        "options": [
+          "The Ottoman Empire invaded Rome and deposed the Pope in 1517.",
+          "The movable-type printing press allowed reformers' pamphlets and vernacular Bibles to be mass-produced rapidly, alongside strong backing from secular rulers.",
+          "Charles V actively promoted Lutheranism throughout Spain and Austria.",
+          "All European universities immediately abandoned Catholic theology in 1518."
+        ],
+        "correctIndex": 1,
+        "explanation": "Gutenberg's printing press enabled Luther's ideas to circulate across Germany within weeks, while political support from German princes protected the movement from imperial suppression."
+      },
+      {
+        "id": 38,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "Which theological dispute prevented Martin Luther and Swiss reformer Ulrich Zwingli from uniting the Protestant movement at the Marburg Colloquy (1529)?",
+        "options": [
+          "Whether the Pope should retain authority over bishop appointments",
+          "The nature of Christ's presence in the Eucharist (Luther believed in the Real Presence, while Zwingli viewed it purely as a symbolic memorial)",
+          "Whether women should be allowed to attend church services",
+          "The validity of the Old Testament"
+        ],
+        "correctIndex": 1,
+        "explanation": "At the Marburg Colloquy, Luther and Zwingli agreed on 14 of 15 points but split irreconcilably over the Eucharist, fracturing Protestantism into distinct Lutheran and Reformed traditions."
+      },
+      {
+        "id": 39,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "What was the 'Priesthood of All Believers' as articulated by Martin Luther?",
+        "options": [
+          "The requirement that every adult male spend five years in a monastery",
+          "The belief that all baptized Christians have direct spiritual access to God without needing ordained priests as intermediaries",
+          "A tax levied on parish priests to fund royal armies",
+          "The Catholic doctrine that only bishops can interpret Scripture"
+        ],
+        "correctIndex": 1,
+        "explanation": "Luther argued that all Christians are spiritually equal before God, undermining the special sacramental status and hierarchy of the Catholic clergy."
+      },
+      {
+        "id": 40,
+        "type": "stimulus",
+        "stimulus": "\"Let the wives be subject to their husbands as to the Lord... The woman is weak and must be governed, yet she is the companion of man's life and the mother of his children, whom God has placed in an honorable estate.\"",
+        "question": "The attitude expressed in the quote best reflects which social consequence of the 16th-century Reformation?",
+        "options": [
+          "The rise of matriarchal governance in Calvinist Geneva",
+          "The reinforcement of patriarchal household authority alongside a new spiritual dignity for domestic marriage",
+          "The complete abolition of dowries and arranged marriages across Europe",
+          "The integration of women into the Protestant pastoral hierarchy"
+        ],
+        "correctIndex": 1,
+        "explanation": "Protestant reformers elevated the spiritual value of marriage and motherhood while reinforcing the husband's authority as the spiritual and legal head of the household."
+      }
+    ]
+  },
+  {
+    "unit": "Age of Exploration",
+    "questions": [
+      {
+        "id": 41,
+        "type": "stimulus",
+        "stimulus": "\"His Holiness [Pope Alexander VI] divides the entire Atlantic Ocean by a line drawn from pole to pole 370 leagues west of the Cape Verde Islands; all lands discovered to the east shall belong to the King of Portugal, and all lands to the west to the King and Queen of Castile and Aragon.\"",
+        "question": "The agreement described above is known as the:",
+        "options": [
+          "Peace of Augsburg (1555)",
+          "Treaty of Tordesillas (1494)",
+          "Edict of Nantes (1598)",
+          "Peace of Westphalia (1648)"
+        ],
+        "correctIndex": 1,
+        "explanation": "The 1494 Treaty of Tordesillas divided newly explored non-European lands between Spain and Portugal, inadvertently giving Portugal legal claim to eastern Brazil."
+      },
+      {
+        "id": 42,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "How did the rediscovery and translation of Ptolemy's 'Geography' in the 15th century influence European overseas exploration?",
+        "options": [
+          "It proved that the Earth was flat and discouraged sailors from leaving the Mediterranean.",
+          "It introduced a grid system of latitude and longitude, though its underestimation of the Earth's circumference led Columbus to believe Asia was much closer westward.",
+          "It provided accurate maps of North and South America to Portuguese navigators.",
+          "It banned Christian monarchs from trading with non-Christian empires."
+        ],
+        "correctIndex": 1,
+        "explanation": "Ptolemy's Geography revived mathematical cartography and coordinates, while his miscalculation of Earth's size convinced Columbus he could reach East Asia quickly by sailing west."
+      },
+      {
+        "id": 43,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "Which technological features made the Portuguese 'caravel' essential for 15th-century Atlantic exploration?",
+        "options": [
+          "Steam-powered paddlewheels and ironclad hulls",
+          "A shallow draft, sturdy hull, and a combination of square sails for speed and triangular lateen sails for tacking against the wind",
+          "Massive cargo holds capable of carrying 5,000 tons of silver",
+          "Submersible capabilities used to evade Ottoman galleys"
+        ],
+        "correctIndex": 1,
+        "explanation": "Developed under Prince Henry the Navigator, the caravel combined square rigging with Arab-inspired lateen sails, allowing explorers to sail against prevailing Atlantic winds along the African coast."
+      },
+      {
+        "id": 44,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "What was the 'encomienda system' established by the Spanish crown in the Americas?",
+        "options": [
+          "A free-trade agreement allowing Dutch merchants to sell goods in Mexico City",
+          "A legal grant giving Spanish conquistadors and settlers the right to extract forced labor and tribute from Indigenous communities in exchange for Christianization and protection",
+          "A system of elected local assemblies governed by Indigenous chiefs",
+          "A banking network that financed Portuguese spice voyages to India"
+        ],
+        "correctIndex": 1,
+        "explanation": "The encomienda system exploited Indigenous labor in mines and plantations under the guise of religious instruction, leading to severe demographic collapse and brutal abuses critiqued by Bartolomé de las Casas."
+      },
+      {
+        "id": 45,
+        "type": "stimulus",
+        "stimulus": "\"They [the Spaniards] forced their way into native settlements, slaughtering everyone they found there, including small children, old men, pregnant women, and even women who had just given birth... Their reason for killing and destroying such an infinite number of souls is that the Christians have an ultimate aim, which is to acquire gold.\" — Bartolomé de las Casas, A Short Account of the Destruction of the Indies, 1552",
+        "question": "Bartolomé de las Casas's writings had which of the following historical effects?",
+        "options": [
+          "They convinced the Spanish crown to immediately abandon all colonies in the New World.",
+          "They prompted Charles V to pass the New Laws of 1542 to curb encomienda abuses, while also fueling the 'Black Legend' used by Protestant rivals to criticize Spain.",
+          "They justified the expansion of the Atlantic slave trade to replace European serfs.",
+          "They led to the excommunication of Hernán Cortés by the Pope."
+        ],
+        "correctIndex": 1,
+        "explanation": "Las Casas's advocacy led to the New Laws of 1542 (restricting hereditary encomiendas) and was seized upon by English and Dutch rivals as anti-Spanish propaganda known as the 'Black Legend.'"
+      },
+      {
+        "id": 46,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "How did the Spanish crown govern its vast American empire administratively in the 16th and 17th centuries?",
+        "options": [
+          "Through independent feudal barons who paid no taxes to Madrid",
+          "Through centralized 'viceroyalties' (such as New Spain and Peru) ruled by royal viceroys and monitored by judicial councils (audiencias)",
+          "By granting self-governing parliaments to creole landowners",
+          "By delegating all colonial governance to the Dutch East India Company"
+        ],
+        "correctIndex": 1,
+        "explanation": "Spain divided its American territories into viceroyalties (New Spain, Peru, etc.), governed directly by viceroys appointed by and accountable to the Spanish monarch and the Council of the Indies."
+      },
+      {
+        "id": 47,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "Which of the following best describes the core economic principles of 'mercantilism' practiced by European colonial powers?",
+        "options": [
+          "Free international trade without tariffs so all nations can mutually enrich one another",
+          "The belief that global wealth is finite, requiring states to maximize bullion (gold/silver) reserves, maintain a favorable balance of trade, and exploit colonies for raw materials and captive markets",
+          "The abolition of state-sponsored monopolies in favor of small artisan guilds",
+          "Complete reliance on domestic agriculture while prohibiting overseas colonies"
+        ],
+        "correctIndex": 1,
+        "explanation": "Mercantilism viewed trade as a zero-sum game: nations sought to export more than they imported, accumulate gold and silver, and restrict colonies to trading exclusively with the mother country."
+      },
+      {
+        "id": 48,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "What was the most significant biological impact of the Columbian Exchange on the Indigenous populations of the Americas?",
+        "options": [
+          "Rapid population growth due to the introduction of European wheat and cattle",
+          "Catastrophic demographic collapse—often 80–90% mortality—caused by Old World diseases like smallpox, measles, and typhus to which they had no immunity",
+          "The eradication of malaria and yellow fever across the Caribbean",
+          "The immediate immunity of Native Americans to Eurasian pathogens"
+        ],
+        "correctIndex": 1,
+        "explanation": "The introduction of Afro-Eurasian epidemic diseases (especially smallpox) devastated Indigenous societies in the Americas, facilitating European conquest and creating labor shortages."
+      },
+      {
+        "id": 49,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "How did American staple crops introduced via the Columbian Exchange affect Europe between 1550 and 1800?",
+        "options": [
+          "They caused widespread soil exhaustion and permanent famine across Western Europe.",
+          "Calorie-dense crops like potatoes and maize significantly boosted European agricultural yields, nutrition, and long-term population growth.",
+          "They replaced wheat entirely as the sole crop grown in France and England.",
+          "They were banned by the Catholic Church as pagan foods."
+        ],
+        "correctIndex": 1,
+        "explanation": "New World crops—especially the potato in northern Europe and maize in southern Europe—produced far more calories per acre than traditional grains, fueling Europe's population surge."
+      },
+      {
+        "id": 50,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "Why did European colonial powers increasingly turn to the Atlantic slave trade in the 16th and 17th centuries?",
+        "options": [
+          "African kingdoms demanded that Europeans transport enslaved laborers to Brazil.",
+          "The demographic collapse of Indigenous populations and the high labor demands of Caribbean and Brazilian sugar plantations created a massive demand for coerced labor.",
+          "European monarchs outlawed serfdom and forced all peasants to emigrate to the Americas.",
+          "Enslaved Africans were paid high wages to mine silver in Potosí."
+        ],
+        "correctIndex": 1,
+        "explanation": "As Indigenous populations died from disease and brutal labor, European plantation owners imported millions of enslaved West and Central Africans via the Middle Passage to work labor-intensive sugar, tobacco, and cotton plantations."
+      },
+      {
+        "id": 51,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "Which European nation pioneered the sea route around Africa to the Indian Ocean spice trade in the late 15th century?",
+        "options": [
+          "England, under Henry VII",
+          "Portugal, culminating in Vasco da Gama's voyage to Calicut, India in 1498",
+          "France, under Francis I",
+          "The Dutch Republic, via the Hudson River"
+        ],
+        "correctIndex": 1,
+        "explanation": "Sponsored by Prince Henry the Navigator, Portuguese explorers Bartolomeu Dias (Cape of Good Hope, 1488) and Vasco da Gama (India, 1498) bypassed Ottoman and Venetian intermediaries to establish a trading-post empire in the Indian Ocean."
+      },
+      {
+        "id": 52,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "How did the Portuguese trading-post empire in the Indian Ocean differ from Spain's territorial empire in the Americas?",
+        "options": [
+          "Portugal conquered and colonized all of mainland China and India.",
+          "Portugal focused on seizing fortified coastal chokepoints (such as Goa, Malacca, and Hormuz) to control and tax maritime spice trade rather than conquering vast inland territories.",
+          "Spain refused to extract precious metals from its colonies.",
+          "Portugal abolished all tariffs and allowed free trade for Muslim merchants."
+        ],
+        "correctIndex": 1,
+        "explanation": "Lacking the population to conquer massive Asian empires, Portugal used superior naval artillery to seize strategic ports and enforce a pass system (cartaz) on Indian Ocean shipping."
+      },
+      {
+        "id": 53,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "Which factors enabled small numbers of Spanish conquistadors led by Hernán Cortés and Francisco Pizarro to topple the Aztec and Inca empires?",
+        "options": [
+          "Superior steel weapons, horses, gunpowder, alliances with rival Indigenous subject peoples, and devastating smallpox epidemics",
+          "Massive reinforcements of 200,000 Spanish infantry sent directly from Seville",
+          "The peaceful voluntary surrender of Moctezuma II and Atahualpa without conflict",
+          "Naval blockades of landlocked mountain cities"
+        ],
+        "correctIndex": 0,
+        "explanation": "Conquistadors exploited internal imperial divisions—allying with resentful tributary tribes like the Tlaxcalans—while steel armor, cavalry, and smallpox crippled Aztec and Inca resistance."
+      },
+      {
+        "id": 54,
+        "type": "stimulus",
+        "stimulus": "\"The silver of Potosí has become the lifeblood of the Spanish Monarchy, funding its armies in Flanders and Germany, yet within Castile itself, prices have tripled and domestic workshops can no longer compete with cheaper foreign manufactures.\"",
+        "question": "The economic phenomenon described in the excerpt is best known as:",
+        "options": [
+          "The Industrial Revolution",
+          "The Price Revolution",
+          "The Continental System",
+          "The Agricultural Enclosure Movement"
+        ],
+        "correctIndex": 1,
+        "explanation": "The Price Revolution was the sustained 16th-century inflation across Europe driven by the massive influx of American silver (especially from Potosí) alongside rising population demand."
+      },
+      {
+        "id": 55,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "How did the rise of Atlantic trade shift Europe's economic center of gravity in the 16th and 17th centuries?",
+        "options": [
+          "From northwestern Europe back to the Italian city-states of Venice and Genoa",
+          "From the Mediterranean basin to Atlantic port cities in Spain, Portugal, the Dutch Republic, and England",
+          "From coastal ports to landlocked cities in eastern Poland and Russia",
+          "From urban commercial centers back to self-sufficient feudal manors"
+        ],
+        "correctIndex": 1,
+        "explanation": "As oceanic trade routes eclipsed traditional overland and Mediterranean spice routes, economic power shifted from Italy to Atlantic maritime states—first Iberia, then the Netherlands and England."
+      },
+      {
+        "id": 56,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "What role did joint-stock companies, such as the Dutch East India Company (VOC) and British East India Company, play in 17th-century European expansion?",
+        "options": [
+          "They were charitable religious orders dedicated solely to building hospitals.",
+          "They pooled capital from multiple investors to share financial risk and received state-granted monopolies to wage war, negotiate treaties, and dominate Asian trade.",
+          "They were owned exclusively by peasant cooperatives in France.",
+          "They campaigned to end all European colonization in the East Indies."
+        ],
+        "correctIndex": 1,
+        "explanation": "Joint-stock companies allowed private investors to buy shares, spreading the high risk of long-distance voyages while acting as quasi-sovereign powers in Asia."
+      },
+      {
+        "id": 57,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "In the Spanish colonial racial hierarchy (sistema de castas), who were the 'peninsulares'?",
+        "options": [
+          "People of mixed European and Indigenous ancestry",
+          "Spaniards born on the Iberian Peninsula in Europe who held the highest administrative and church offices in the colonies",
+          "Spaniards born in the Americas who were excluded from top viceregal posts",
+          "Enslaved Africans working on Caribbean sugar plantations"
+        ],
+        "correctIndex": 1,
+        "explanation": "Peninsulares (born in Spain) stood at the top of colonial society above Creoles (American-born Spaniards), Mestizos, Mulattoes, Indigenous peoples, and enslaved Africans."
+      },
+      {
+        "id": 58,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "What was the 'Triangular Trade' in the early modern Atlantic world?",
+        "options": [
+          "Trade exclusively between England, France, and the Ottoman Empire",
+          "A three-legged commercial network carrying European manufactured goods to Africa, enslaved Africans across the Middle Passage to the Americas, and colonial cash crops (sugar, tobacco, rum) back to Europe",
+          "The exchange of Baltic timber for Russian furs and Polish grain",
+          "A diplomatic alliance between Spain, Portugal, and the Papacy"
+        ],
+        "correctIndex": 1,
+        "explanation": "The Atlantic Triangular Trade linked Europe, West Africa, and the Americas in a brutal commercial circuit centered on plantation slavery and mercantilist extraction."
+      },
+      {
+        "id": 59,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "Which motivation is summarized by the traditional phrase 'God, Gold, and Glory' regarding Iberian overseas expansion?",
+        "options": [
+          "The desire to spread Christianity, acquire precious metals and trade wealth, and gain aristocratic status and national prestige",
+          "The plan to establish democratic republics in South America",
+          "The effort to abolish all European monarchies through colonial wealth",
+          "The goal of isolating Europe from all foreign cultural influences"
+        ],
+        "correctIndex": 0,
+        "explanation": "Iberian monarchs, conquistadors, and missionaries were driven by missionary zeal (Catholicism), economic enrichment (gold/spices), and social/imperial prestige."
+      },
+      {
+        "id": 60,
+        "type": "stimulus",
+        "stimulus": "\"The King of Congo writes to the King of Portugal: 'Each day the traders are kidnapping our people—children of this country, sons of our nobles and vassals, even people of our own family. This corruption and depravity are so widespread that our land is entirely depopulated.'\" — King Afonso I of Kongo, 1526",
+        "question": "King Afonso I's letter illustrates which consequence of early European involvement in West-Central Africa?",
+        "options": [
+          "European merchants immediately halted the slave trade at the request of African rulers.",
+          "The growing European demand for enslaved plantation labor destabilized African kingdoms and undermined local royal authority.",
+          "Portugal colonized the entire interior of Central Africa in the 1520s.",
+          "The Kingdom of Kongo converted to Lutheranism to oppose Portugal."
+        ],
+        "correctIndex": 1,
+        "explanation": "Although initially an ally and Christian convert, King Afonso I saw his kingdom destabilized and depopulated as Portuguese slave traders bypassed royal controls to feed the Atlantic slave trade."
+      }
+    ]
+  },
+  {
+    "unit": "Religious Wars",
+    "questions": [
+      {
+        "id": 61,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "What principle was established by the Peace of Augsburg (1555) in the Holy Roman Empire?",
+        "options": [
+          "Complete religious freedom for all individuals, including Calvinists and Anabaptists",
+          "Cuius regio, eius religio ('Whose realm, his religion'), allowing each German prince to choose either Catholicism or Lutheranism for his territory",
+          "The permanent abolition of Catholicism throughout northern Germany",
+          "The unification of Germany under the French crown"
+        ],
+        "correctIndex": 1,
+        "explanation": "The Peace of Augsburg ended early religious warfare in Germany by letting territorial princes choose Lutheranism or Catholicism, though it excluded Calvinists and denied individual religious choice."
+      },
+      {
+        "id": 62,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "Why did Holy Roman Emperor Charles V abdicate his titles in 1556 and divide his empire?",
+        "options": [
+          "He converted to Calvinism and retired to Geneva.",
+          "Exhausted by decades of fighting German Protestant princes, France, and the Ottoman Empire, he realized his vast multi-national empire was too large for one ruler to govern.",
+          "He was overthrown by a peasant rebellion in Madrid.",
+          "Pope Paul IV ordered him to surrender Spain to Queen Elizabeth I."
+        ],
+        "correctIndex": 1,
+        "explanation": "Overwhelmed by simultaneous wars against the Schmalkaldic League, Valois France, and Suleiman the Magnificent's Ottomans, Charles V divided his Habsburg lands between his son Philip II (Spain/Netherlands) and brother Ferdinand I (Austria/HRE)."
+      },
+      {
+        "id": 63,
+        "type": "stimulus",
+        "stimulus": "\"Paris is well worth a Mass.\" — Attributed to King Henry IV of France, 1593",
+        "question": "The statement above reflects Henry IV's role as a 'politique' because he:",
+        "options": [
+          "Prioritized political stability, national unity, and peace over rigid religious uniformity by converting to Catholicism while protecting Huguenots",
+          "Ordered the execution of all French Protestants in Paris",
+          "Invited the Spanish Armada to invade France to restore Catholic orthodoxy",
+          "Abolished the French monarchy in favor of a Calvinist republic"
+        ],
+        "correctIndex": 0,
+        "explanation": "As a politique, Henry of Navarre converted to Catholicism to secure Paris and end the French Wars of Religion, then issued the Edict of Nantes (1598) to protect his former Huguenot allies."
+      },
+      {
+        "id": 64,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "What did the Edict of Nantes (1598) grant to French Huguenots?",
+        "options": [
+          "The right to replace Catholicism as the official state religion of France",
+          "Freedom of conscience, public worship in designated towns, civil rights, and fortified towns for self-defense within a predominantly Catholic kingdom",
+          "Complete exemption from all royal taxation",
+          "Control over the city of Paris and the royal treasury"
+        ],
+        "correctIndex": 1,
+        "explanation": "Issued by Henry IV, the Edict of Nantes ended the French Wars of Religion by recognizing Catholicism as the official religion while granting Huguenots religious toleration and fortified safety towns."
+      },
+      {
+        "id": 65,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "What triggered the St. Bartholomew's Day Massacre in August 1572?",
+        "options": [
+          "The execution of Mary, Queen of Scots by Elizabeth I",
+          "Catherine de' Medici's fear of growing Huguenot political influence at court during the royal wedding of Margaret of Valois and Henry of Navarre, resulting in the slaughter of thousands of Huguenots",
+          "The invasion of Paris by Swedish armies under Gustavus Adolphus",
+          "The revocation of the Edict of Nantes by Louis XIV"
+        ],
+        "correctIndex": 1,
+        "explanation": "Following a failed assassination attempt on Huguenot leader Admiral Coligny, Catherine de' Medici and King Charles IX authorized a targeted strike that spiraled into a massive Catholic mob slaughter of thousands of Huguenots across France."
+      },
+      {
+        "id": 66,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "Why did King Philip II of Spain launch the Spanish Armada against England in 1588?",
+        "options": [
+          "To support Elizabeth I's Protestant settlement against Scottish rebels",
+          "To overthrow Protestant Queen Elizabeth I, halt English privateering against Spanish treasure ships, and stop English military aid to the Dutch Revolt",
+          "To force England to join the Protestant Schmalkaldic League",
+          "To annex Ireland as a colony for the French crown"
+        ],
+        "correctIndex": 1,
+        "explanation": "Philip II launched the Armada in response to Elizabeth I's execution of Catholic Mary, Queen of Scots, English support for Dutch Protestant rebels, and raids by Sir Francis Drake."
+      },
+      {
+        "id": 67,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "How did Queen Elizabeth I's 'Elizabethan Settlement' stabilize religion in England?",
+        "options": [
+          "By executing all Catholics and banning the Book of Common Prayer",
+          "By establishing a moderate Protestant Church of England (Anglicanism) that retained traditional episcopal structure and liturgy while rejecting papal authority",
+          "By converting England back to Roman Catholicism",
+          "By adopting radical Puritan congregationalism"
+        ],
+        "correctIndex": 1,
+        "explanation": "Elizabeth I pursued a middle way (via media): the Act of Supremacy and Act of Uniformity created a moderate Protestant church broad enough to satisfy most subjects while avoiding bloody religious civil war."
+      },
+      {
+        "id": 68,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "Why did Catholic France, under Cardinal Richelieu, intervene on the Protestant side during the final phase of the Thirty Years' War?",
+        "options": [
+          "Cardinal Richelieu secretly converted to Lutheranism.",
+          "Raison d'état (reason of state): France prioritized weakening its rival Habsburg dynasties (in Spain and Austria) over religious solidarity",
+          "Pope Urban VIII ordered France to destroy the Holy Roman Empire.",
+          "France wanted to annex Sweden and Denmark."
+        ],
+        "correctIndex": 1,
+        "explanation": "Cardinal Richelieu exemplified politique statecraft (raison d'état), funding Protestant Sweden and entering the war against Catholic Habsburgs to prevent Habsburg hegemony in Europe."
+      },
+      {
+        "id": 69,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "What was the role of King Gustavus Adolphus of Sweden in the Thirty Years' War?",
+        "options": [
+          "He led Catholic imperial forces to victory at the Battle of White Mountain.",
+          "He intervened with a modernized, disciplined Protestant army, reversing Habsburg victories in Germany before being killed at the Battle of Lützen (1632).",
+          "He negotiated the Peace of Augsburg with Martin Luther.",
+          "He surrendered Swedish Pomerania to Spain without a fight."
+        ],
+        "correctIndex": 1,
+        "explanation": "Backed by French subsidies, Gustavus Adolphus's mobile artillery and disciplined infantry crushed Habsburg forces at Breitenfeld (1631), saving the Protestant cause in Germany."
+      },
+      {
+        "id": 70,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "Which of the following was a major long-term consequence of the Peace of Westphalia (1648)?",
+        "options": [
+          "The restoration of unified Catholic control over all of Germany and the Netherlands",
+          "The recognition of state sovereignty, the addition of Calvinism to the Peace of Augsburg, the formal independence of the Dutch Republic and Switzerland, and the permanent fragmentation of the Holy Roman Empire",
+          "The unification of Germany under Prussian leadership",
+          "The end of all standing armies in Western Europe"
+        ],
+        "correctIndex": 1,
+        "explanation": "The Peace of Westphalia ended the Thirty Years' War, established the modern system of sovereign states, recognized Calvinism alongside Catholicism and Lutheranism, and left over 300 German states virtually autonomous."
+      },
+      {
+        "id": 71,
+        "type": "stimulus",
+        "stimulus": "\"In the villages of Magdeburg and across Bohemia, fields lie untended, entire populations have vanished through sword, famine, and plague, and over one-third of the German people have perished in thirty years of ceaseless mercenaries' pillage.\"",
+        "question": "The devastation described above was primarily a result of which conflict?",
+        "options": [
+          "The English Civil War",
+          "The Thirty Years' War (1618–1648)",
+          "The War of the Spanish Succession",
+          "The Glorious Revolution"
+        ],
+        "correctIndex": 1,
+        "explanation": "Fought largely on German soil by unpaid mercenary armies, the Thirty Years' War killed roughly 30–40% of the German population and devastated Central Europe's economy."
+      },
+      {
+        "id": 72,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "What sparked the outbreak of the Thirty Years' War in 1618?",
+        "options": [
+          "The Spanish Armada's landing in Scotland",
+          "The Defenestration of Prague, in which Bohemian Protestant nobles threw two Catholic Habsburg officials out of a castle window to protest Emperor Ferdinand II's curtailment of religious liberties",
+          "The assassination of Henry IV in Paris",
+          "The execution of Charles I in London"
+        ],
+        "correctIndex": 1,
+        "explanation": "When Habsburg Ferdinand II moved to revoke Protestant privileges in Bohemia, Bohemian nobles rebelled via the Defenestration of Prague, igniting the Bohemian phase of the Thirty Years' War."
+      },
+      {
+        "id": 73,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "What was the outcome of the Dutch Revolt (Eighty Years' War) against Spanish Habsburg rule?",
+        "options": [
+          "Spain successfully crushed the revolt and reimposed the Spanish Inquisition across Amsterdam.",
+          "The seven northern Protestant provinces formed the independent United Provinces (Dutch Republic), which became Europe's leading commercial and maritime power in the 17th century.",
+          "The Netherlands was annexed by England under Oliver Cromwell.",
+          "The Dutch Republic became an absolute monarchy modeled on Spain."
+        ],
+        "correctIndex": 1,
+        "explanation": "Led by William of Orange against Philip II's heavy taxes and religious persecution, the northern provinces achieved de facto independence in 1609 and formal recognition in 1648."
+      },
+      {
+        "id": 74,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "Who were the 'Huguenots' in 16th- and 17th-century France?",
+        "options": [
+          "Ultra-Catholic nobles led by the Guise family",
+          "French Calvinists, who included a disproportionately high percentage of nobles and urban artisans",
+          "Peasant tax collectors loyal to Cardinal Richelieu",
+          "Jesuit missionaries sent from Rome to Paris"
+        ],
+        "correctIndex": 1,
+        "explanation": "Huguenots were French followers of John Calvin; although only about 7–10% of the population, nearly 40% of the French nobility converted, turning religious division into a major political threat to the crown."
+      },
+      {
+        "id": 75,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "What was the 'War of the Three Henrys' in France (1587–1589)?",
+        "options": [
+          "A conflict between England, Spain, and Portugal over American silver",
+          "The final phase of the French Wars of Religion pitting King Henry III, ultra-Catholic Henry of Guise, and Protestant Henry of Navarre against one another for the French throne",
+          "A civil war in Germany between three Lutheran princes",
+          "A naval war between Venice, Genoa, and the Ottoman Empire"
+        ],
+        "correctIndex": 1,
+        "explanation": "After the assassinations of Henry of Guise and King Henry III, Protestant Henry of Navarre emerged as the sole surviving heir, becoming King Henry IV."
+      },
+      {
+        "id": 76,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "How did the defeat of the Spanish Armada in 1588 affect the broader European balance of power?",
+        "options": [
+          "Spain immediately lost all of its American colonies to England.",
+          "It prevented a Catholic invasion of England, boosted English national pride and naval confidence, and signaled the gradual decline of Spanish hegemony.",
+          "England annexed Spain and Portugal.",
+          "It ended the Dutch Revolt in favor of Philip II."
+        ],
+        "correctIndex": 1,
+        "explanation": "While Spain remained powerful for several more decades, the Armada's destruction preserved Protestant England and marked a turning point toward English and Dutch maritime ascendancy."
+      },
+      {
+        "id": 77,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "Which statement best characterizes the evolution of the Thirty Years' War from 1618 to 1648?",
+        "options": [
+          "It began as a dynastic war over Poland and ended as a crusade against the Ottomans.",
+          "It began as a localized religious conflict within the Holy Roman Empire and evolved into a continent-wide geopolitical struggle for European dominance between France and the Habsburgs.",
+          "It was fought exclusively at sea between England and Sweden.",
+          "It ended with the complete restoration of papal political authority over Europe."
+        ],
+        "correctIndex": 1,
+        "explanation": "By the Swedish and French phases, dynastic and geopolitical rivalry between Bourbon France and Habsburg Austria/Spain overshadowed the original Catholic-Protestant conflict."
+      },
+      {
+        "id": 78,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "Why did the Peace of Augsburg (1555) fail to secure permanent peace in the Holy Roman Empire?",
+        "options": [
+          "It required all German princes to convert to Catholicism within ten years.",
+          "It excluded Calvinists from legal recognition, failed to resolve disputes over secularized church lands, and could not prevent Jesuit Counter-Reformation gains.",
+          "It abolished the office of Holy Roman Emperor.",
+          "It gave France control over Bavaria and Saxony."
+        ],
+        "correctIndex": 1,
+        "explanation": "Because Calvinism spread rapidly after 1555—and was illegal under the Peace of Augsburg—tensions escalated into the formation of the Protestant Union and Catholic League, leading to war in 1618."
+      },
+      {
+        "id": 79,
+        "type": "stimulus",
+        "stimulus": "\"We will not be ruled by Spanish garrisons or the Inquisition; our provinces have ancient charters and liberties which even our sovereign must respect, and if he becomes a tyrant, his subjects may lawfully forsake him.\" — Dutch Act of Abjuration, 1581",
+        "question": "The excerpt above reflects which political argument used during the European Wars of Religion?",
+        "options": [
+          "Divine right absolutism",
+          "Resistance theory—the idea that subjects have the right to depose a monarch who violates constitutional liberties and true religion",
+          "Enlightened despotism",
+          "Mercantilist protectionism"
+        ],
+        "correctIndex": 1,
+        "explanation": "Both Calvinist 'monarchomachs' in France and Dutch rebels developed resistance theories arguing that tyrannical rulers forfeiting divine and constitutional law could be lawfully resisted."
+      },
+      {
+        "id": 80,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "What role did Cardinal Richelieu play inside France during the reign of Louis XIII?",
+        "options": [
+          "He decentralized royal power by restoring feudal armies to the French nobility.",
+          "He strengthened royal absolutism by destroying Huguenot fortified cities (like La Rochelle), suppressing noble conspiracies, and using royal intendants to govern provinces.",
+          "He abolished the Catholic Church in France.",
+          "He granted universal male suffrage to the Estates General."
+        ],
+        "correctIndex": 1,
+        "explanation": "Richelieu laid the foundations for French absolutism by stripping Huguenots of their military autonomy (Peace of Alès, 1629) and curbing the power of the high nobility."
+      }
+    ]
+  },
+  {
+    "unit": "Absolutism + Constitutionalism",
+    "questions": [
+      {
+        "id": 81,
+        "type": "stimulus",
+        "stimulus": "\"The royal power is absolute... The prince need render account of his acts to no one... Without this absolute authority the king could neither do good nor repress evil. It is necessary that his power be such that no one can hope to escape him.\" — Jacques-Bénigne Bossuet, Politics Drawn from the Very Words of Holy Scripture, 1679",
+        "question": "Bishop Bossuet's argument in the passage above was formulated primarily to justify the reign of which monarch?",
+        "options": [
+          "William III of England",
+          "Louis XIV of France",
+          "Oliver Cromwell",
+          "Frederick William, the Great Elector"
+        ],
+        "correctIndex": 1,
+        "explanation": "Jacques-Bénigne Bossuet was court preacher and tutor to Louis XIV's son; his treatise provided the classic theological defense of Divine Right absolutism in France."
+      },
+      {
+        "id": 82,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "How did 'The Fronde' (1648–1653) shape Louis XIV's subsequent approach to governing France?",
+        "options": [
+          "It convinced him to share legislative power equally with the Parlement of Paris.",
+          "The trauma of noble and judicial rebellions during his childhood convinced him to strip the high nobility of political power and tame them at the Palace of Versailles.",
+          "It led him to abolish the royal standing army and rely on noble militias.",
+          "It forced him to restore fortified Protestant cities across southern France."
+        ],
+        "correctIndex": 1,
+        "explanation": "Fleeing Paris as a child during the Fronde rebellions left Louis XIV determined to never again allow the French nobility to challenge royal sovereignty, leading him to centralize power and keep nobles occupied at Versailles."
+      },
+      {
+        "id": 83,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "Which economic policies did Jean-Baptiste Colbert implement as Louis XIV's Controller-General of Finances?",
+        "options": [
+          "Free-trade agreements eliminating all tariffs on English and Dutch imports",
+          "Strict mercantilism: raising high protective tariffs, subsidizing domestic luxury industries, improving internal infrastructure, and expanding overseas colonies to maximize gold bullion",
+          "Abolishing state monopolies and privatizing the French navy",
+          "Replacing indirect taxes with a single progressive income tax on the nobility"
+        ],
+        "correctIndex": 1,
+        "explanation": "Colbert was the premier practitioner of mercantilism ('Colbertism'), seeking to make France economically self-sufficient and export-driven to fund Louis XIV's wars and palace."
+      },
+      {
+        "id": 84,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "Why did Louis XIV revoke the Edict of Nantes in 1685 (Edict of Fontainebleau), and what was its major consequence?",
+        "options": [
+          "To ally with Protestant England; it caused Catholics to flee France.",
+          "Under the motto 'One king, one law, one faith,' he sought religious uniformity, resulting in the flight of over 200,000 skilled Huguenot artisans and merchants to rival Protestant states.",
+          "To grant Calvinists representation in the Estates General; it sparked a peasant revolt.",
+          "To appease Pope Innocent XI; it ended all warfare between France and Spain."
+        ],
+        "correctIndex": 1,
+        "explanation": "Revoking the Edict of Nantes destroyed Huguenot churches and schools, causing a massive 'brain drain' as skilled Protestant craftsmen, soldiers, and merchants fled to the Dutch Republic, England, and Prussia."
+      },
+      {
+        "id": 85,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "What was the primary goal of the Grand Alliance (England, Dutch Republic, Austria, etc.) against Louis XIV in the War of the Spanish Succession (1701–1714)?",
+        "options": [
+          "To restore the Stuart dynasty to the English throne",
+          "To prevent the dynastic union of the French and Spanish thrones under the Bourbon dynasty, which would have shattered the European balance of power",
+          "To partition Poland between Prussia and Russia",
+          "To force France to adopt a constitutional parliament"
+        ],
+        "correctIndex": 1,
+        "explanation": "When Charles II of Spain left his empire to Louis XIV's grandson Philip of Anjou, European powers united to preserve the balance of power; the Peace of Utrecht (1713) confirmed Philip as King of Spain on the condition that the French and Spanish crowns never unite."
+      },
+      {
+        "id": 86,
+        "type": "stimulus",
+        "stimulus": "\"1. That the pretended power of suspending of laws or the execution of laws by regal authority without consent of Parliament is illegal... 4. That levying money for or to the use of the Crown by pretence of prerogative, without grant of Parliament... is illegal... 8. That election of members of Parliament ought to be free.\" — English Bill of Rights, 1689",
+        "question": "The document excerpted above was a direct outcome of which historical event?",
+        "options": [
+          "The execution of Charles I in 1649",
+          "The Glorious Revolution of 1688, in which William and Mary of Orange replaced James II",
+          "The Restoration of Charles II in 1660",
+          "Oliver Cromwell's establishment of the Protectorate"
+        ],
+        "correctIndex": 1,
+        "explanation": "After Parliament invited William of Orange and Mary to depose Catholic absolutist James II in 1688, they accepted the English Bill of Rights (1689), permanently establishing parliamentary supremacy and constitutional monarchy."
+      },
+      {
+        "id": 87,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "Which issues caused the outbreak of the English Civil War in 1642 between King Charles I and Parliament?",
+        "options": [
+          "Charles I's attempt to convert England to Lutheranism and abolish the House of Lords",
+          "Disputes over royal taxation without parliamentary consent, Charles I's eleven-year 'Personal Rule,' and Puritan fears over Archbishop Laud's Catholic-style Anglican church reforms",
+          "Parliament's demand that England surrender its American colonies to Spain",
+          "Charles I's refusal to build a royal navy"
+        ],
+        "correctIndex": 1,
+        "explanation": "Charles I's Divine Right absolutism, illegal taxes ('Ship Money'), and High Church Anglican policies clashed with a Puritan-dominated House of Commons, culminating in armed conflict in 1642."
+      },
+      {
+        "id": 88,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "How did Oliver Cromwell govern England during the 'Protectorate' (1653–1658)?",
+        "options": [
+          "As a constitutional monarch subject to annual parliamentary elections",
+          "As 'Lord Protector' in a de facto Puritan military dictatorship backed by the New Model Army, after dismissing the Rump Parliament",
+          "As a Catholic regent loyal to Pope Innocent X",
+          "As prime minister under Queen Mary II"
+        ],
+        "correctIndex": 1,
+        "explanation": "Following the execution of Charles I and the short-lived Commonwealth, Cromwell dissolved Parliament and ruled as Lord Protector under a written constitution (Instrument of Government), enforcing strict Puritan moral codes."
+      },
+      {
+        "id": 89,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "Why did Parliament turn against King James II in 1688, triggering the Glorious Revolution?",
+        "options": [
+          "James II invaded France without parliamentary approval.",
+          "James II appointed Catholics to high military and government posts in violation of the Test Act, and the birth of his Catholic son raised the prospect of a permanent Catholic dynasty.",
+          "James II abolished the Anglican Church and established Presbyterianism.",
+          "James II attempted to hand over London to the Dutch East India Company."
+        ],
+        "correctIndex": 1,
+        "explanation": "Tories and Whigs united against James II when his second wife gave birth to a Catholic male heir, threatening to perpetuate Catholic absolutism in England."
+      },
+      {
+        "id": 90,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "How did the political compromise between monarchs and the 'Junkers' shape the rise of Brandenburg-Prussia in the 17th and 18th centuries?",
+        "options": [
+          "Prussian kings abolished serfdom and gave land to peasants at the expense of the Junkers.",
+          "Frederick William, the Great Elector, granted the Junker nobility complete authority over their serfs and exclusive officer ranks in the military in exchange for permanent taxation to fund a powerful standing army.",
+          "The Junkers overthrew the Hohenzollern dynasty and established a republic.",
+          "Prussia disbanded its army to focus entirely on overseas maritime trade."
+        ],
+        "correctIndex": 1,
+        "explanation": "The Hohenzollern rulers forged a durable alliance with the landowning Junker aristocracy: nobles surrendered parliamentary tax powers in return for total control over their estates/serfs and monopoly over military officer commissions."
+      },
+      {
+        "id": 91,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "Who were the 'Boyars' in early modern Russia, and how did tsars like Ivan IV and Peter the Great deal with them?",
+        "options": [
+          "Free peasant Cossack warriors on the Ukrainian frontier",
+          "The traditional Russian hereditary landowning nobility, whose independent political power was systematically crushed and subordinated to state service by the tsars",
+          "Dutch shipbuilders hired to construct St. Petersburg",
+          "Orthodox monks who opposed all royal taxation"
+        ],
+        "correctIndex": 1,
+        "explanation": "Tsars centralized autocracy by breaking the Boyars' feudal autonomy— culminating in Peter the Great's Table of Ranks (1722), which tied noble status directly to mandatory military or civil service."
+      },
+      {
+        "id": 92,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "Who were the 'Cossacks' in Eastern Europe between the 16th and 18th centuries?",
+        "options": [
+          "Prussian tax bureaucrats appointed by Frederick the Great",
+          "Self-governing, semi-nomadic military communities of runaway serfs and frontiersmen in Ukraine and southern Russia who fiercely resisted Polish and Russian centralizing control before being incorporated into the Russian army",
+          "Wealthy merchant bankers in Amsterdam",
+          "Swiss mercenaries guarding the French king at Versailles"
+        ],
+        "correctIndex": 1,
+        "explanation": "Living on the Eurasian steppe frontier, Cossacks formed democratic warrior bands that led major rebellions (such as Stenka Razin and Pugachev) against serfdom and tsarist autocracy."
+      },
+      {
+        "id": 93,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "How did the political structure of the Dutch Republic in the 17th century differ from absolute monarchies like France?",
+        "options": [
+          "It was ruled by a hereditary king claiming divine right.",
+          "It was a decentralized federal republic governed by wealthy merchant oligarchs (regents) in provincial Estates and the States General, practicing broad religious toleration that fueled a Golden Age of trade and art.",
+          "It was a strict Puritan theocracy governed by Oliver Cromwell.",
+          "It banned all international banking and joint-stock companies."
+        ],
+        "correctIndex": 1,
+        "explanation": "The United Provinces (Dutch Republic) rejected monarchy and religious uniformity, creating a bourgeois mercantile republic where Amsterdam became Europe's financial capital."
+      },
+      {
+        "id": 94,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "Why did Eastern European rulers (in Prussia, Austria, and Russia) strengthen serfdom in the 16th and 17th centuries while serfdom was declining in Western Europe?",
+        "options": [
+          "Eastern European peasants voluntarily requested to become serfs for protection against Vikings.",
+          "Weak monarchs granted nobles total legal control over peasants ('hereditary subjugation') to secure noble loyalty and ensure cheap grain exports for Western markets.",
+          "The Catholic Church required serfdom in all Orthodox and Lutheran countries.",
+          "Eastern Europe had no cities or trade routes."
+        ],
+        "correctIndex": 1,
+        "explanation": "In this 'Second Serfdom,' Eastern lords restricted peasant mobility and increased unpaid labor obligations (robot) to profit from commercial grain exports to Western Europe, while kings traded peasant rights for noble cooperation."
+      },
+      {
+        "id": 95,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "What was the 'Intendant system' used by Cardinal Richelieu and Louis XIV in France?",
+        "options": [
+          "A network of royal middle-class commissioners sent into the provinces to collect taxes, administer justice, and enforce royal decrees, bypassing the traditional local nobility",
+          "An elected assembly of French peasants that approved new war taxes",
+          "A guild regulating silk production in Lyon",
+          "A secret police force run by the Huguenots"
+        ],
+        "correctIndex": 0,
+        "explanation": "Intendants were loyal, non-noble royal officials appointed directly by the crown who undermined the regional power of aristocratic provincial governors."
+      },
+      {
+        "id": 96,
+        "type": "stimulus",
+        "stimulus": "\"Hereby it is manifest, that during the time men live without a common Power to keep them all in awe, they are in that condition which is called War; and such a war, as is of every man, against every man... and the life of man, solitary, poor, nasty, brutish, and short.\" — Thomas Hobbes, Leviathan, 1651",
+        "question": "Written in the immediate aftermath of the English Civil War, Hobbes's passage argues for which form of government?",
+        "options": [
+          "A direct democracy with frequent elections",
+          "An all-powerful, indivisible sovereign authority (Leviathan) to whom subjects surrender their natural rights in exchange for order and security",
+          "A constitutional monarchy with strict separation of powers",
+          "Anarchism and the abolition of all civil laws"
+        ],
+        "correctIndex": 1,
+        "explanation": "Horrified by the chaos of the English Civil War, Thomas Hobbes used social contract theory to justify absolute sovereignty—arguing that without a strong ruler, humanity descends into violent anarchy."
+      },
+      {
+        "id": 97,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "What was the 'Pragmatic Sanction' of 1713 issued by Habsburg Emperor Charles VI?",
+        "options": [
+          "A treaty granting independence to Hungary and Bohemia",
+          "A decree declaring that Habsburg territories were indivisible and could be inherited by a female heir—specifically his daughter, Maria Theresa",
+          "An alliance between Austria and the Ottoman Empire against Russia",
+          "A law abolishing serfdom across the Austrian Empire"
+        ],
+        "correctIndex": 1,
+        "explanation": "Lacking a male heir, Charles VI spent years persuading European powers to recognize the Pragmatic Sanction so Maria Theresa would inherit all Habsburg lands intact—an agreement Frederick the Great promptly broke in 1740."
+      },
+      {
+        "id": 98,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "Why did Poland-Lithuania fail to develop a strong centralized monarchy in the 17th and 18th centuries?",
+        "options": [
+          "The Polish king held absolute control over a massive standing army.",
+          "The nobility (szlachta) elected weak foreign kings and exercised the 'liberum veto,' allowing any single noble in the Sejm (parliament) to dissolve the assembly and block any legislation",
+          "Poland was conquered by Sweden in 1600 and never regained independence.",
+          "The Polish middle class abolished the monarchy and established a communist republic."
+        ],
+        "correctIndex": 1,
+        "explanation": "The liberum veto paralyzed the Polish Sejm, leaving Poland-Lithuania militarily weak and vulnerable to partition by Prussia, Russia, and Austria in the late 18th century."
+      },
+      {
+        "id": 99,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "Who were the 'Puritans' in 17th-century England?",
+        "options": [
+          "Catholics who sought to restore papal authority over the Church of England",
+          "Strict English Calvinists who wanted to 'purify' the Anglican Church of remaining Catholic rituals, vestments, and bishops",
+          "Royalists who fought for Charles I during the English Civil War",
+          "Supporters of religious toleration for atheists and Catholics"
+        ],
+        "correctIndex": 1,
+        "explanation": "Puritans believed the Elizabethan Settlement had not gone far enough in reforming the Church of England, leading them into fierce political and religious conflict with James I and Charles I."
+      },
+      {
+        "id": 100,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "What does 'constitutionalism' mean in the context of 17th-century European politics (such as in England and the Dutch Republic)?",
+        "options": [
+          "Rule by an unlimited monarch who answers only to God",
+          "The limitation of government power by fundamental laws, representative assemblies, and respect for subjects' legal rights, even if not codified in a single written document",
+          "Complete universal suffrage for all adult men and women",
+          "The rule of military generals without any civilian courts"
+        ],
+        "correctIndex": 1,
+        "explanation": "Constitutionalism required rulers to govern according to established laws and share authority with representative bodies (like Parliament), contrasting sharply with royal absolutism."
+      }
+    ]
+  },
+  {
+    "unit": "Scientific Revolution",
+    "questions": [
+      {
+        "id": 101,
+        "type": "stimulus",
+        "stimulus": "\"At rest, however, in the middle of everything is the sun. For in this most beautiful temple, who would place this lamp in another or better position than that from which it can light up the whole thing at the same time?\" — Nicolaus Copernicus, On the Revolutions of the Heavenly Spheres, 1543",
+        "question": "Copernicus's heliocentric model directly challenged which long-standing intellectual framework?",
+        "options": [
+          "Isaac Newton's law of universal gravitation",
+          "The geocentric Ptolemaic-Aristotelian cosmology endorsed by medieval scholasticism and the Church",
+          "Francis Bacon's inductive empirical method",
+          "Johannes Kepler's elliptical planetary orbits"
+        ],
+        "correctIndex": 1,
+        "explanation": "Copernicus replaced the Earth-centered (geocentric) universe of Aristotle and Ptolemy with a Sun-centered (heliocentric) model, initiating the Scientific Revolution."
+      },
+      {
+        "id": 102,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "How did Johannes Kepler modify and improve upon Nicolaus Copernicus's heliocentric model?",
+        "options": [
+          "He proved that the Earth was stationary at the center of the universe.",
+          "Using Tycho Brahe's precise astronomical data, Kepler demonstrated that planets move in elliptical orbits rather than perfect circles and vary in speed.",
+          "He invented the reflecting telescope to discover Jupiter's moons.",
+          "He argued that angels physically pushed the planets through crystalline spheres."
+        ],
+        "correctIndex": 1,
+        "explanation": "Kepler's three laws of planetary motion dismantled the ancient belief in uniform circular motion, proving mathematically that planetary orbits are ellipses."
+      },
+      {
+        "id": 103,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "Which astronomical discoveries made by Galileo Galilei using his improved telescope undermined Aristotelian cosmology?",
+        "options": [
+          "The discovery of Neptune and Pluto",
+          "Observations of mountains and craters on the Moon, sunspots, the phases of Venus, and four moons orbiting Jupiter—proving heavenly bodies were imperfect and not all objects orbited Earth",
+          "The measurement of the speed of light in a vacuum",
+          "The discovery of DNA and cellular mitosis"
+        ],
+        "correctIndex": 1,
+        "explanation": "Galileo's telescopic observations (published in The Starry Messenger, 1610) shattered the Aristotelian division between an imperfect, changeable Earth and pure, unchanging heavens."
+      },
+      {
+        "id": 104,
+        "type": "stimulus",
+        "stimulus": "\"I do not feel obliged to believe that the same God who has endowed us with sense, reason, and intellect has intended us to forgo their use and by some other means to give us knowledge which we can attain by them.\" — Galileo Galilei, Letter to the Grand Duchess Christina, 1615",
+        "question": "Why did Galileo's writings bring him into direct conflict with the Roman Inquisition in 1633?",
+        "options": [
+          "He openly converted to Calvinism and called for the overthrow of the Pope.",
+          "He defended heliocentrism as physical reality and argued that Scripture should be interpreted in light of empirical science, defying Church injunctions during the Counter-Reformation.",
+          "He refused to pay taxes to the Grand Duke of Tuscany.",
+          "He claimed that Isaac Newton's Principia was a forgery."
+        ],
+        "correctIndex": 1,
+        "explanation": "During the Counter-Reformation, the Catholic Church guarded its monopoly on biblical interpretation; Galileo's Dialogue Concerning the Two Chief World Systems led to his trial, forced recantation, and house arrest."
+      },
+      {
+        "id": 105,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "What was Isaac Newton's monumental achievement in his 1687 work 'Principia Mathematica'?",
+        "options": [
+          "He disproved the existence of gravity through alchemical experiments.",
+          "He synthesized the work of Copernicus, Kepler, and Galileo into a single mathematical framework, demonstrating that the same universal law of gravitation governs both terrestrial and celestial motion.",
+          "He discovered the circulation of blood through the human heart.",
+          "He invented the steam engine used in British coal mines."
+        ],
+        "correctIndex": 1,
+        "explanation": "Newton's Principia unified terrestrial physics and celestial mechanics under three laws of motion and universal gravitation, portraying the universe as a rational, law-governed 'world-machine.'"
+      },
+      {
+        "id": 106,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "How did Francis Bacon's 'empiricism' (inductive method) transform scientific inquiry?",
+        "options": [
+          "He argued that scientists should rely purely on deductive logic and ancient Greek authorities without performing experiments.",
+          "He advocated systematic observation, controlled experimentation, and gathering empirical data to draw general conclusions, rather than relying on preconceived scholastic assumptions.",
+          "He insisted that scientific knowledge could only be obtained through mystical revelation.",
+          "He banned the use of mathematics in natural philosophy."
+        ],
+        "correctIndex": 1,
+        "explanation": "Francis Bacon championed inductive reasoning and experimental empiricism, arguing that systematic observation of nature would yield practical knowledge and human mastery over the natural world."
+      },
+      {
+        "id": 107,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "What is 'Cartesian dualism,' formulated by French philosopher and mathematician René Descartes?",
+        "options": [
+          "The belief that the Sun and Moon orbit the Earth in twin circles",
+          "The separation of reality into two distinct substances: thinking mind/spirit (res cogitans) and physical matter/extension (res extensa), allowing matter to be studied purely mechanically and mathematically",
+          "The division of European states into Catholic and Protestant leagues",
+          "The theory that human knowledge comes exclusively from sensory experience without innate reason"
+        ],
+        "correctIndex": 1,
+        "explanation": "Using systematic doubt ('Cogito, ergo sum') and deductive rationalism, Descartes separated mind from matter, liberating the physical universe from spiritual forces so it could be analyzed mathematically."
+      },
+      {
+        "id": 108,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "How did the term 'natural philosophy' function during the 16th and 17th centuries?",
+        "options": [
+          "It referred exclusively to Romantic poetry about mountains and forests.",
+          "It was the contemporary term for what we now call physics, astronomy, and the natural sciences—studying the physical universe and God's creation through reason and observation.",
+          "It meant the study of medieval canon law.",
+          "It was a synonym for laissez-faire economics."
+        ],
+        "correctIndex": 1,
+        "explanation": "Before the modern word 'scientist' was coined in the 19th century, thinkers like Newton and Galileo were known as 'natural philosophers' investigating the laws of nature."
+      },
+      {
+        "id": 109,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "How did Andreas Vesalius and William Harvey revolutionize 16th- and 17th-century medicine and anatomy?",
+        "options": [
+          "They proved Galen's ancient medical theories were completely infallible.",
+          "Vesalius corrected Galen's errors through direct human dissection (On the Fabric of the Human Body), while Harvey demonstrated the continuous circulation of blood pumped by the heart.",
+          "They discovered penicillin and smallpox vaccines.",
+          "They argued that all diseases were caused by astrological alignments."
+        ],
+        "correctIndex": 1,
+        "explanation": "Vesalius (1543) overturned centuries of reliance on Galen's animal dissections, and William Harvey (1628) proved the heart acts as a mechanical pump circulating blood through a closed system."
+      },
+      {
+        "id": 110,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "What role did royal scientific academies, such as the Royal Society of London (1660) and the French Royal Academy of Sciences (1666), play in the Scientific Revolution?",
+        "options": [
+          "They censored all scientific publications and burned telescopes.",
+          "They institutionalized science by funding experiments, publishing peer-reviewed journals, facilitating international communication, and linking science to state prestige and practical utility.",
+          "They admitted women as the majority of their voting fellows.",
+          "They banned Newtonian physics in favor of Aristotelian scholasticism."
+        ],
+        "correctIndex": 1,
+        "explanation": "State-sponsored academies provided legitimacy, funding, laboratories, and journals (like Philosophical Transactions), transforming science into a collaborative international enterprise."
+      },
+      {
+        "id": 111,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "How were women generally treated within the institutions of the Scientific Revolution?",
+        "options": [
+          "Women were welcomed as full professors at Oxford, Cambridge, and the University of Paris.",
+          "Despite notable contributions by figures like Margaret Cavendish and Maria Winkelmann, women were largely excluded from universities and formal scientific academies.",
+          "Queen Elizabeth I mandated that half of the Royal Society's members be women.",
+          "Women had no interest in astronomy, botany, or natural philosophy."
+        ],
+        "correctIndex": 1,
+        "explanation": "Although aristocratic women like Margaret Cavendish engaged in scientific debates and German astronomer Maria Winkelmann discovered a comet, the Berlin Academy and Royal Society barred women from formal membership."
+      },
+      {
+        "id": 112,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "Which long-standing medieval belief persisted alongside the Scientific Revolution well into the late 17th century before gradually declining?",
+        "options": [
+          "Heliocentrism",
+          "Belief in witchcraft, alchemy, and astrology, which began to decline among educated elites only as mechanistic science discredited magical causation",
+          "The circulation of blood",
+          "Elliptical planetary orbits"
+        ],
+        "correctIndex": 1,
+        "explanation": "Even Kepler cast horoscopes and Newton practiced alchemy; however, the rise of a mechanistic, predictable universe eventually undermined elite belief in demonic magic and ended the European witch trials."
+      },
+      {
+        "id": 113,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "How did the Scientific Revolution directly pave the way for the 18th-century Enlightenment?",
+        "options": [
+          "By proving that human reason was incapable of understanding the universe",
+          "By inspiring philosophes to apply the same empirical and rational methods used to discover natural laws in physics to human society, politics, and economics",
+          "By restoring absolute papal authority over all European universities",
+          "By discouraging literacy and book publishing"
+        ],
+        "correctIndex": 1,
+        "explanation": "Enlightenment thinkers idolized Isaac Newton and sought to become the 'Newtons of human society,' believing reason could uncover natural laws governing politics, justice, and economics."
+      },
+      {
+        "id": 114,
+        "type": "stimulus",
+        "stimulus": "\"Nature and Nature's laws lay hid in night: / God said, Let Newton be! and all was light.\" — Alexander Pope, 1730",
+        "question": "Alexander Pope's couplet best reflects which 18th-century intellectual attitude toward the Scientific Revolution?",
+        "options": [
+          "Fear that science had destroyed Christian faith entirely",
+          "Reverence for human reason and confidence that Newton had unlocked the rational, harmonious laws of the universe",
+          "Rejection of mathematics in favor of mystical intuition",
+          "Nostalgia for medieval feudalism"
+        ],
+        "correctIndex": 1,
+        "explanation": "Pope's famous epitaph captures the Enlightenment's awe of Isaac Newton as the supreme symbol of human reason illuminating the natural order."
+      },
+      {
+        "id": 115,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "How did Robert Boyle contribute to the Scientific Revolution in the field of chemistry?",
+        "options": [
+          "He proved that all matter consists of earth, air, fire, and water.",
+          "He rejected medieval alchemy's four-element theory, pioneered controlled chemical experimentation, and formulated Boyle's Law relating gas pressure and volume.",
+          "He discovered radioactive isotopes of uranium.",
+          "He invented the mercury thermometer in Florence."
+        ],
+        "correctIndex": 1,
+        "explanation": "In The Sceptical Chymist (1661), Robert Boyle laid the foundations of modern chemistry by insisting on rigorous experimentation and proposing that matter consists of tiny particles."
+      },
+      {
+        "id": 116,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "Which development in mathematics during the 17th century was essential for calculating planetary motion and physics?",
+        "options": [
+          "The invention of Roman numerals",
+          "The independent invention of calculus by Isaac Newton and Gottfried Wilhelm Leibniz, alongside Descartes's analytic geometry",
+          "The abolition of algebra in European universities",
+          "The discovery of the abacus"
+        ],
+        "correctIndex": 1,
+        "explanation": "Analytic geometry (Descartes) and differential/integral calculus (Newton and Leibniz) gave scientists the mathematical tools needed to analyze continuous motion and gravity."
+      },
+      {
+        "id": 117,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "Why did Protestant countries like England and the Dutch Republic become leading centers of scientific inquiry in the late 17th century?",
+        "options": [
+          "Protestant churches funded all astronomical observatories.",
+          "They lacked a centralized Inquisition or Index of Prohibited Books, fostering freer intellectual debate, publishing, and international scientific exchange.",
+          "Catholic countries banned the teaching of mathematics.",
+          "Isaac Newton was appointed Archbishop of Canterbury."
+        ],
+        "correctIndex": 1,
+        "explanation": "After Galileo's condemnation in 1633, scientific momentum shifted northward to Protestant England and the Netherlands, where censorship was far weaker than in Counter-Reformation Italy and Spain."
+      },
+      {
+        "id": 118,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "What was the 'Experimental Method' pioneered by figures like Galileo, Francis Bacon, and Robert Boyle?",
+        "options": [
+          "Debating Aristotelian texts in Latin until a consensus is reached",
+          "Formulating testable hypotheses and conducting repeatable, controlled experiments using precision instruments (telescopes, microscopes, barometers) to verify results",
+          "Consulting ancient astrological charts before making medical diagnoses",
+          "Relying solely on royal decrees to determine scientific truth"
+        ],
+        "correctIndex": 1,
+        "explanation": "Rather than passively observing nature or trusting ancient authorities, the experimental method actively tested hypotheses under controlled conditions with newly invented instruments."
+      },
+      {
+        "id": 119,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "How did Baruch Spinoza's philosophy reflect the radical intellectual impact of the Scientific Revolution?",
+        "options": [
+          "He defended traditional church miracles and papal infallibility.",
+          "Using geometric logic, he argued for pantheism—equating God and Nature as a single deterministic substance governed by immutable natural laws.",
+          "He rejected reason in favor of emotional mysticism.",
+          "He argued that the Earth was the center of the solar system."
+        ],
+        "correctIndex": 1,
+        "explanation": "Excommunicated from Amsterdam's Jewish community, Spinoza applied Cartesian rationalism to religion and ethics, arguing that God and the physical universe are one."
+      },
+      {
+        "id": 120,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "Which statement best summarizes the overall shift in worldview caused by the Scientific Revolution?",
+        "options": [
+          "From a rational, secular worldview to a mystical, superstitious worldview",
+          "From an organic, spiritual, Earth-centered cosmos explained by ancient authority to a mechanistic, infinite, law-governed universe understood through mathematics and empirical observation",
+          "From democratic science to complete religious control over laboratories",
+          "From experimental physics back to medieval scholasticism"
+        ],
+        "correctIndex": 1,
+        "explanation": "Between Copernicus (1543) and Newton (1687), European intellectuals replaced the finite, teleological medieval cosmos with an infinite, mechanical universe operating by mathematical laws."
+      }
+    ]
+  },
+  {
+    "unit": "Enlightenment",
+    "questions": [
+      {
+        "id": 121,
+        "type": "stimulus",
+        "stimulus": "\"Man being born, as has been proved, with a title to perfect freedom, and an uncontrolled enjoyment of all the rights and privileges of the law of nature... hath by nature a power, not only to preserve his property, that is, his life, liberty and estate, against the injuries and attempts of other men...\" — John Locke, Second Treatise of Government, 1689",
+        "question": "According to John Locke's social contract theory, what happens if a government fails to protect the natural rights referenced in the passage?",
+        "options": [
+          "Subjects must passively endure tyranny because rulers are appointed directly by God.",
+          "The people retain the right to alter or overthrow that government and establish a new one that secures their natural rights.",
+          "The monarch may abolish private property to restore social harmony.",
+          "Only the hereditary nobility may petition the Pope to excommunicate the king."
+        ],
+        "correctIndex": 1,
+        "explanation": "Unlike Hobbes, John Locke argued that government exists by consent of the governed to protect life, liberty, and property; if it violates that trust, citizens have the right of revolution."
+      },
+      {
+        "id": 122,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "What political principle did Baron de Montesquieu advocate in 'The Spirit of the Laws' (1748) to prevent governmental tyranny?",
+        "options": [
+          "Enlightened despotism under a single all-powerful monarch",
+          "Separation of powers into executive, legislative, and judicial branches with checks and balances",
+          "Direct democracy in which every citizen votes on every law",
+          "Theocratic rule by a council of bishops"
+        ],
+        "correctIndex": 1,
+        "explanation": "Admiring what he believed to be the British system, Montesquieu argued that liberty is preserved only when political power is divided so 'power checks power.'"
+      },
+      {
+        "id": 123,
+        "type": "stimulus",
+        "stimulus": "\"Man is born free, and everywhere he is in chains... Each of us puts his person and all his power in common under the supreme direction of the general will, and, in our corporate capacity, we receive each member as an indivisible part of the whole.\" — Jean-Jacques Rousseau, The Social Contract, 1762",
+        "question": "How did Rousseau's concept of the 'general will' differ from John Locke's political philosophy?",
+        "options": [
+          "Rousseau defended divine right monarchy, while Locke advocated communism.",
+          "Rousseau prioritized the collective good and popular sovereignty of the entire community over individual property rights, arguing true freedom lies in obeying laws the community prescribes for itself.",
+          "Rousseau believed women should hold absolute political power over men.",
+          "Rousseau opposed all forms of education and civic virtue."
+        ],
+        "correctIndex": 1,
+        "explanation": "Rousseau critiqued Enlightenment hyper-rationalism and inequality, arguing in The Social Contract that legitimate sovereignty rests in the collective 'general will' of the citizenry."
+      },
+      {
+        "id": 124,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "Which target did Voltaire attack most relentlessly throughout his career, famously summarized by his battle cry 'Écrasez l'infâme' ('Crush the infamous thing')?",
+        "options": [
+          "Constitutional monarchy in Great Britain",
+          "Religious fanaticism, intolerance, superstition, and the political corruption of the Catholic Church",
+          "Newtonian physics and empirical science",
+          "The freedom of the press and theatrical drama"
+        ],
+        "correctIndex": 1,
+        "explanation": "Voltaire championed religious toleration, freedom of speech, and Deism, fiercely attacking religious persecution (such as the Calas affair) and clerical intolerance."
+      },
+      {
+        "id": 125,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "What was the primary goal of Denis Diderot and Jean le Rond d'Alembert in editing the 28-volume 'Encyclopédie' (1751–1772)?",
+        "options": [
+          "To preserve medieval scholastic theology and reinforce royal censorship",
+          "To compile and democratize all human knowledge—science, technology, arts, and critical philosophy—in order to 'change the general way of thinking' and undermine superstition",
+          "To translate the Latin Vulgate Bible for Catholic seminaries",
+          "To glorify the military campaigns of Louis XV"
+        ],
+        "correctIndex": 1,
+        "explanation": "The Encyclopédie served as the flagship publication of the French Enlightenment, spreading rationalism, religious skepticism, and practical technical knowledge across Europe despite royal and papal bans."
+      },
+      {
+        "id": 126,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "In 'On Crimes and Punishments' (1764), Cesare Beccaria advocated which major Enlightenment legal reforms?",
+        "options": [
+          "Harsher public executions and expanded use of judicial torture to deter crime",
+          "The abolition of judicial torture and capital punishment, arguing that punishments should be swift, proportionate to the crime, and aimed at deterrence and rehabilitation rather than vengeance",
+          "Separate courts and lighter penalties for noblemen compared to commoners",
+          "The restoration of trial by ordeal"
+        ],
+        "correctIndex": 1,
+        "explanation": "Beccaria applied utilitarian rationalism to criminal justice, influencing enlightened rulers like Catherine the Great and Joseph II to abolish torture and restrict the death penalty."
+      },
+      {
+        "id": 127,
+        "type": "stimulus",
+        "stimulus": "\"If women be educated for dependence; that is, to act according to the will of another fallible being, and submit, right or wrong, to power, where are we to stop?... Strengthen the female mind by enlarging it, and there will be an end to blind obedience.\" — Mary Wollstonecraft, A Vindication of the Rights of Woman, 1792",
+        "question": "Mary Wollstonecraft's argument directly challenged which Enlightenment thinker's views on women's education?",
+        "options": [
+          "Jean-Jacques Rousseau, who argued in Émile that women should be educated strictly to be subordinate, pleasing companions to men",
+          "Denis Diderot, who banned women from reading the Encyclopédie",
+          "John Locke, who denied that women possessed souls",
+          "Thomas Paine, who opposed the French Revolution"
+        ],
+        "correctIndex": 0,
+        "explanation": "Wollstonecraft turned Enlightenment principles of universal reason and natural rights against Rousseau's gendered separate-spheres doctrine, arguing women appear inferior only because they are denied equal education."
+      },
+      {
+        "id": 128,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "What role did Parisian 'salons,' hosted by wealthy women (salonnières) like Madame Geoffrin, play in the Enlightenment?",
+        "options": [
+          "They were secret revolutionary cells plotting the assassination of Louis XVI.",
+          "They provided an informal, cosmopolitan 'public sphere' where philosophes, nobles, foreign diplomats, and artists gathered to debate ideas free from royal court censorship",
+          "They functioned exclusively as sewing workshops for Parisian working-class women.",
+          "They were state-funded academies restricted solely to male clergy."
+        ],
+        "correctIndex": 1,
+        "explanation": "Salonnières like Madame Geoffrin curated intellectual gatherings that bridged aristocratic wealth and bourgeois talent, enabling women to shape Enlightenment discourse despite exclusion from formal academies."
+      },
+      {
+        "id": 129,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "How did 'Deism' characterize the religious worldview of many Enlightenment philosophes?",
+        "options": [
+          "Strict adherence to orthodox Calvinist predestination",
+          "The belief in a rational Creator God who designed the universe according to natural laws—like a cosmic watchmaker—and then stepped back without intervening through miracles or revealed scripture",
+          "Complete denial of any divine creator or intelligent order in nature",
+          "Devotion to medieval relics and papal indulgences"
+        ],
+        "correctIndex": 1,
+        "explanation": "Inspired by Newtonian mechanics, Deists (such as Voltaire and Thomas Paine) believed reason and observation of nature proved God's existence without needing organized churches or dogma."
+      },
+      {
+        "id": 130,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "Which artistic style, characterized by pastel colors, asymmetrical curves, playful aristocratic leisure, and ornate intimacy, dominated early-to-mid-18th-century European courts?",
+        "options": [
+          "Gothic",
+          "Rococo",
+          "Neoclassicism",
+          "Romanticism"
+        ],
+        "correctIndex": 1,
+        "explanation": "Rococo (e.g., Watteau, Fragonard, Boucher) reflected the aristocratic pleasure-seeking of Louis XV's court, before Enlightenment philosophes critiqued it as frivolous and favored moralizing Neoclassicism."
+      },
+      {
+        "id": 131,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "What was 'Enlightened Absolutism' (or Enlightened Despotism) in 18th-century Central and Eastern Europe?",
+        "options": [
+          "Monarchs voluntarily abdicating their thrones to establish democratic republics",
+          "Absolute rulers (such as Frederick the Great, Catherine the Great, and Joseph II) adopting selective Enlightenment reforms—religious toleration, legal codification, education—to rationalize and strengthen their states without surrendering royal power",
+          "Peasants overthrowing absolute kings to install constitutional parliaments",
+          "The Pope seizing direct political control over Prussia, Russia, and Austria"
+        ],
+        "correctIndex": 1,
+        "explanation": "Enlightened absolutists used rational reforms to modernize bureaucracies, boost tax revenues, and improve state efficiency, while firmly maintaining autocratic control."
+      },
+      {
+        "id": 132,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "Which ruler went furthest in implementing radical Enlightenment reforms—abolishing serfdom, granting full religious toleration to Jews and Protestants, and imposing equal taxation—only to see most of his reforms reversed after his death due to noble and peasant backlash?",
+        "options": [
+          "Louis XV of France",
+          "Joseph II of Austria",
+          "Peter the Great of Russia",
+          "George III of Great Britain"
+        ],
+        "correctIndex": 1,
+        "explanation": "Joseph II issued thousands of sweeping decrees (including the Edict of Toleration and abolition of serfdom), alienating the Habsburg nobility, Catholic Church, and even peasants, forcing his brother Leopold II to repeal most of them."
+      },
+      {
+        "id": 133,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "How did Catherine the Great of Russia respond to Pugachev's Rebellion (1773–1775), and what does this reveal about the limits of Enlightened Absolutism?",
+        "options": [
+          "She immediately emancipated all Russian serfs and granted them land.",
+          "She brutally crushed the rebellion and issued the Charter of the Nobility (1785), abandoning serf reform and granting Russian nobles absolute authority over their serfs to secure aristocratic support",
+          "She abdicated in favor of Emelian Pugachev.",
+          "She invited Denis Diderot to serve as Prime Minister of Russia."
+        ],
+        "correctIndex": 1,
+        "explanation": "Although Catherine corresponded with Voltaire and Diderot and reformed Russian law codes, Pugachev's massive peasant-Cossack uprising proved that her throne depended on noble loyalty, leading her to entrench serfdom further."
+      },
+      {
+        "id": 134,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "How did Frederick the Great of Prussia ('First Servant of the State') apply Enlightenment ideas during his reign?",
+        "options": [
+          "He disbanded the Prussian army and abolished the Junker aristocracy.",
+          "He promoted religious toleration (inviting expelled Jesuits and Huguenots), codified Prussian law, abolished judicial torture, and fostered agriculture, while preserving serfdom and noble privilege",
+          "He granted universal suffrage to all Prussian peasants.",
+          "He converted Prussia to Roman Catholicism."
+        ],
+        "correctIndex": 1,
+        "explanation": "Frederick II patronized Voltaire, improved the judiciary and primary education, and practiced wide religious toleration, yet never undermined the military-aristocratic Junker foundation of Prussia."
+      },
+      {
+        "id": 135,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "What was Peter the Great's primary objective in building St. Petersburg and reforming Russian military, dress, and administration?",
+        "options": [
+          "To isolate Russia completely from European trade and science",
+          "To 'Westernize' and modernize Russia's military and state apparatus so it could compete as a major European great power and gain a warm-water 'window to the West' on the Baltic Sea",
+          "To establish a constitutional parliament modeled on Great Britain",
+          "To abolish serfdom across the Russian Empire"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ruling before the high Enlightenment, Peter the Great forcibly imported Western European technology, military organization, and cultural norms to transform Russia into a dominant Baltic and European power."
+      },
+      {
+        "id": 136,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "How did Maria Theresa strengthen the Habsburg Austrian Empire after the War of the Austrian Succession?",
+        "options": [
+          "By granting complete independence to Bohemia and Hungary",
+          "By centralizing royal bureaucracy, taxing the lands of the clergy and nobility for the first time, improving primary education, and limiting the labor obligations (robot) nobles could demand from serfs",
+          "By abolishing the Catholic Church in Vienna",
+          "By surrendering Austria to Frederick the Great"
+        ],
+        "correctIndex": 1,
+        "explanation": "Pragmatic and devoutly Catholic, Maria Theresa reformed Austrian administration, taxation, and military readiness primarily to preserve the Habsburg dynasty against Prussian aggression."
+      },
+      {
+        "id": 137,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "What does historian Jürgen Habermas's concept of the 'public sphere' refer to in 18th-century Europe?",
+        "options": [
+          "The private royal bedchamber at Versailles",
+          "An expanding cultural space—comprising coffeehouses, salons, newspapers, lending libraries, and Masonic lodges—where private citizens debated public affairs and critiqued state policies",
+          "Public torture and executions in town squares",
+          "State-owned agricultural collectives"
+        ],
+        "correctIndex": 1,
+        "explanation": "The growth of literacy, print culture, and urban sociability created an informed public opinion independent of royal courts and churches, eroding traditional deference to absolute authority."
+      },
+      {
+        "id": 138,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "How did John Locke's concept of the 'tabula rasa' (blank slate) in 'An Essay Concerning Human Understanding' influence Enlightenment reform?",
+        "options": [
+          "It proved that human intelligence is fixed at birth by aristocratic bloodlines.",
+          "By arguing that all human knowledge comes from sensory experience rather than innate ideas, it suggested that improving education and social institutions could reform and perfect human society",
+          "It defended the doctrine of original sin and predestination.",
+          "It argued that books should be banned for children."
+        ],
+        "correctIndex": 1,
+        "explanation": "Locke's empiricist psychology gave Enlightenment reformers immense optimism: if people are shaped by their environment and education, rational social reform can create enlightened citizens."
+      },
+      {
+        "id": 139,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "What role did Thomas Paine play in connecting Enlightenment political thought across the Atlantic world?",
+        "options": [
+          "He wrote treatises defending British mercantilism and King George III.",
+          "Through accessible pamphlets like 'Common Sense' (1776) and 'Rights of Man' (1791), he popularized radical democratic republicanism, natural rights, and anti-monarchical revolution among ordinary readers",
+          "He served as finance minister to Louis XVI.",
+          "He argued against the abolition of slavery in the British Empire."
+        ],
+        "correctIndex": 1,
+        "explanation": "Thomas Paine wrote in plain, forceful prose aimed at artisans and common citizens rather than aristocrats, championing both the American and French Revolutions."
+      },
+      {
+        "id": 140,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "How did Adam Smith's 'The Wealth of Nations' (1776) apply Enlightenment natural law theory to economics?",
+        "options": [
+          "He argued that monarchs must tightly regulate every guild and set all grain prices.",
+          "He attacked mercantilism and argued for 'laissez-faire' economic liberalism—contending that free markets, division of labor, and self-interest guided by an 'invisible hand' naturally generate wealth and social harmony",
+          "He called for the complete abolition of private property and money.",
+          "He defended colonial trade monopolies like the British East India Company."
+        ],
+        "correctIndex": 1,
+        "explanation": "Building on the French Physiocrats, Scottish Enlightenment thinker Adam Smith argued that removing state tariffs and monopolies allows natural laws of supply and demand to maximize prosperity."
+      }
+    ]
+  },
+  {
+    "unit": "Agricultural Revolution",
+    "questions": [
+      {
+        "id": 141,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "How did the 18th-century Agricultural Revolution eliminate the traditional medieval 'fallow' year in the open-field system?",
+        "options": [
+          "By leaving half of all farmland uncultivated every decade",
+          "By introducing scientific crop rotation (such as Charles 'Turnip' Townshend's four-course rotation using turnips and clover), which restored nitrogen to the soil while providing winter fodder for livestock",
+          "By importing synthetic chemical fertilizers from Germany",
+          "By banning cattle and sheep from European farms"
+        ],
+        "correctIndex": 1,
+        "explanation": "Planting nitrogen-fixing crops like clover and turnips replenished soil fertility without leaving land empty, while feeding larger herds of livestock that produced more manure fertilizer."
+      },
+      {
+        "id": 142,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "What were the major social and economic consequences of the Parliamentary 'Enclosure' movement in 18th-century Britain?",
+        "options": [
+          "Every peasant family received 100 acres of free common land.",
+          "Large landowners consolidated scattered strips and fenced off common lands, boosting agricultural productivity and commercial efficiency while displacing small tenant farmers and cottagers into wage labor",
+          "British agricultural output collapsed, causing widespread famine.",
+          "The British Parliament abolished private land ownership."
+        ],
+        "correctIndex": 1,
+        "explanation": "Enclosure enabled experimental farming and higher yields to feed growing cities, but stripped poor villagers of traditional common grazing rights, creating a landless rural proletariat."
+      },
+      {
+        "id": 143,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "How did the 'putting-out system' (cottage industry) operate in 18th-century rural Europe?",
+        "options": [
+          "Urban guilds forced all weavers to work inside state-owned city factories.",
+          "Urban merchant-capitalists supplied raw materials (such as wool or flax) to rural peasant families, who spun and wove them in their cottages for piece-rate wages, before merchants collected and sold the finished cloth",
+          "Peasants grew crops exclusively for their local feudal lord without payment.",
+          "Governments banned rural households from owning spinning wheels or looms."
+        ],
+        "correctIndex": 1,
+        "explanation": "The putting-out system (proto-industrialization) bypassed restrictive urban guild regulations and tariffs, providing rural families with supplemental income while expanding textile production."
+      },
+      {
+        "id": 144,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "Why did 18th-century proponents of economic liberalism (such as Adam Smith and Anne-Robert-Jacques Turgot) oppose the traditional 'guild system'?",
+        "options": [
+          "Guilds promoted unregulated free-market competition.",
+          "Guilds held state-backed monopolies that restricted entry into trades, fixed prices and wages, stifled technological innovation, and excluded women and rural workers",
+          "Guilds abolished private property in European cities.",
+          "Guilds were controlled exclusively by Enlightenment philosophes."
+        ],
+        "correctIndex": 1,
+        "explanation": "Economic liberals viewed urban craft guilds as archaic obstacles to free trade, labor mobility, and industrial innovation."
+      },
+      {
+        "id": 145,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "What was the primary purpose of the English 'Navigation Acts' (first passed in 1651 under Oliver Cromwell and expanded under Charles II)?",
+        "options": [
+          "To establish free trade between British colonies and Dutch merchants",
+          "To enforce mercantilism by requiring all goods imported into England or its colonies to be carried on English ships with predominantly English crews, crippling Dutch maritime dominance",
+          "To abolish tariffs on French wine and silk",
+          "To ban British merchants from participating in the Atlantic slave trade"
+        ],
+        "correctIndex": 1,
+        "explanation": "The Navigation Acts were a cornerstone of British mercantilist policy, sparking Anglo-Dutch naval wars and eventually helping Britain surpass the Dutch Republic as Europe's premier maritime power."
+      },
+      {
+        "id": 146,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "What caused the 'illegitimacy explosion' in Western and Central Europe between 1750 and 1850?",
+        "options": [
+          "The Catholic Church abolished the sacrament of marriage.",
+          "Increased migration of young people to cities and cottage-industry wages weakened traditional village 'community controls' and parental oversight over courtship, while poverty often delayed or prevented promised marriages",
+          "European governments paid cash bonuses for unmarried mothers.",
+          "Average life expectancy dropped to 15 years old."
+        ],
+        "correctIndex": 1,
+        "explanation": "As young workers left tight-knit rural villages for towns and rural industry, traditional village pressures that once forced men to marry pregnant fiancées broke down, sharply raising out-of-wedlock births."
+      },
+      {
+        "id": 147,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "In early modern European villages, what were 'community controls' and 'charivari'?",
+        "options": [
+          "Royal tax collectors stationed at city gates",
+          "Informal social policing and public shaming rituals (such as noisy mock serenades or 'charivari') used by villagers to enforce traditional moral norms, marriage patterns, and economic fairness",
+          "Secret police networks operated by Napoleon Bonaparte",
+          "Agricultural tools invented by Jethro Tull"
+        ],
+        "correctIndex": 1,
+        "explanation": "Before modern police forces, tight-knit villages relied on collective surveillance and public humiliation rituals like charivari to punish adultery, wife-beating, or unpopular marriages."
+      },
+      {
+        "id": 148,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "What was the practice of 'wet-nursing' in 18th-century Europe, and why did Enlightenment thinkers like Rousseau criticize it?",
+        "options": [
+          "Training women to become hospital surgeons",
+          "Hiring rural peasant women to breastfeed the infants of wealthy and working urban mothers—a practice associated with extraordinarily high infant mortality rates that Rousseau attacked as unnatural",
+          "Providing free pasteurized milk to urban foundling hospitals",
+          "Banning mothers from caring for their own children"
+        ],
+        "correctIndex": 1,
+        "explanation": "Widely practiced across France by both aristocrats and urban shopkeepers, wet-nursing often resulted in neglect and high infant deaths; in Émile, Rousseau urged mothers to nurse their own children."
+      },
+      {
+        "id": 149,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "What characterized the 18th-century 'Consumer Revolution' in Western Europe?",
+        "options": [
+          "A sharp decline in the availability of clothing, furniture, and colonial goods",
+          "A dramatic expansion in the variety and affordability of everyday consumer goods—cotton calicoes, tea, coffee, sugar, porcelain, and books—driven by Atlantic trade, cottage industry, and rising urban demand",
+          "The banning of all coffeehouses and taverns by European monarchs",
+          "A return to medieval bartering without currency"
+        ],
+        "correctIndex": 1,
+        "explanation": "Even middling and working-class households began purchasing inexpensive cotton clothing, colonial stimulants (tea, coffee, sugar), and household tableware, transforming daily life and social identity."
+      },
+      {
+        "id": 150,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "Which demographic pattern characterized Western European marriage and family life in the 17th and 18th centuries ('European Marriage Pattern')?",
+        "options": [
+          "Teenage marriage around age 14 within large multi-generational extended households",
+          "Relatively late age at first marriage (mid-to-late twenties) and nuclear households, as couples waited until they could accumulate enough land, savings, or guild status to support an independent family",
+          "Mandatory polygamy among the landed aristocracy",
+          "Complete absence of marriage among rural peasants"
+        ],
+        "correctIndex": 1,
+        "explanation": "Delayed marriage acted as a natural check on population growth in Western Europe until cottage industry and New World crops allowed earlier family formation in the late 18th century."
+      },
+      {
+        "id": 151,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "What ended the recurring cycles of devastating famine and bubonic plague in Western Europe during the 18th century?",
+        "options": [
+          "The invention of antibiotics in 1720",
+          "Improved agricultural yields, better road and canal transportation to move grain to deficit areas, the disappearance of the black rat/plague bacillus, and stricter quarantine measures",
+          "The abandonment of all cities as Europeans moved back to forests",
+          "A massive decline in Europe's total population"
+        ],
+        "correctIndex": 1,
+        "explanation": "After the last major plague outbreak in Marseille (1720), better nutrition, transport infrastructure, and public health quarantines enabled sustained, uninterrupted European population growth."
+      },
+      {
+        "id": 152,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "How did Jethro Tull's invention of the mechanical seed drill contribute to the Agricultural Revolution?",
+        "options": [
+          "It harvested wheat automatically using steam power.",
+          "It planted seeds in neat, evenly spaced rows at a consistent depth rather than wasteful hand-scattering (broadcasting), increasing germination rates and allowing horse-drawn hoeing between rows",
+          "It drained the marshes of eastern England.",
+          "It spun raw cotton into thread twice as fast as hand spinning."
+        ],
+        "correctIndex": 1,
+        "explanation": "Jethro Tull applied empirical observation to farming, designing the seed drill and horse-drawn hoe to reduce seed waste and boost grain harvests."
+      },
+      {
+        "id": 153,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "Why did the Low Countries (the Dutch Republic and Flanders) lead Europe in early agricultural innovation in the 17th century?",
+        "options": [
+          "They had vast, sparsely populated prairies.",
+          "High population density and extensive urbanization created intense market demand for food, pushing Dutch farmers to pioneer land reclamation (polders), drainage, and intensive crop rotation",
+          "They imported all their food from Russia and grew nothing domestically.",
+          "The Dutch government banned all industrial manufacturing."
+        ],
+        "correctIndex": 1,
+        "explanation": "Dense cities and limited land forced Dutch engineers and farmers to reclaim land from the sea and maximize output per acre—methods later adopted by British agriculturalists."
+      },
+      {
+        "id": 154,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "What was the 'industrious revolution' identified by historians of 18th-century Europe?",
+        "options": [
+          "The violent uprising of Luddites against steam looms",
+          "A shift in which rural and urban households worked longer hours and reallocated women's and children's labor toward market-oriented cottage production in order to earn cash to buy new consumer goods",
+          "The abolition of child labor across all European mines",
+          "A law requiring all nobles to work in factories"
+        ],
+        "correctIndex": 1,
+        "explanation": "Before steam factories existed, families voluntarily intensified their market labor to afford tea, sugar, printed cottons, and household goods."
+      },
+      {
+        "id": 155,
+        "type": "stimulus",
+        "stimulus": "\"The division of labor, however, so far as it can be introduced, occasions, in every art, a proportionable increase of the productive powers of labor... One man draws out the wire, another straights it, a third cuts it, a fourth points it...\" — Adam Smith, The Wealth of Nations, 1776",
+        "question": "Adam Smith's famous pin-factory example illustrates which foundational principle of modern economics?",
+        "options": [
+          "Mercantilist bullion accumulation",
+          "Specialization of tasks dramatically increases efficiency, output per worker, and overall economic productivity",
+          "Guild apprenticeship restrictions protect artisanal quality",
+          "Tariffs are necessary to protect domestic manufacturing"
+        ],
+        "correctIndex": 1,
+        "explanation": "Smith demonstrated that breaking production into specialized, repetitive tasks multiplies output far beyond what an individual craftsman could produce alone."
+      },
+      {
+        "id": 156,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "How did the spread of smallpox inoculation (variolation) by Lady Mary Wortley Montagu and later vaccination by Edward Jenner (1796) impact 18th-century society?",
+        "options": [
+          "It had no effect until the 20th century.",
+          "It gradually reduced mortality from one of Europe's deadliest infectious killers, contributing to falling death rates and rising life expectancy",
+          "It caused widespread outbreaks of bubonic plague.",
+          "It was banned across Great Britain until 1850."
+        ],
+        "correctIndex": 1,
+        "explanation": "Introduced from Ottoman practice by Lady Mary Wortley Montagu and perfected via cowpox vaccination by Edward Jenner in 1796, immunization marked a major milestone in public health."
+      },
+      {
+        "id": 157,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "Why were urban 'foundling hospitals' established in major 18th-century cities like Paris and London, and what was their tragic reality?",
+        "options": [
+          "They were luxury boarding schools for aristocratic orphans with 99% survival rates.",
+          "They were charitable institutions created to care for abandoned infants, yet overcrowding and disease meant that 50% to 90% of admitted infants died within their first year",
+          "They were military academies run by Napoleon.",
+          "They were hospitals exclusively for elderly veterans."
+        ],
+        "correctIndex": 1,
+        "explanation": "Soaring poverty and illegitimacy led desperate parents to abandon thousands of babies at foundling homes, which became overwhelmed and suffered staggering infant mortality."
+      },
+      {
+        "id": 158,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "What caused the severe 'spinster' bottleneck in the 18th-century putting-out textile system?",
+        "options": [
+          "A shortage of sheep wool across Great Britain",
+          "It took four to five spinners working full-time to supply enough thread for a single weaver, creating an acute shortage of yarn that spurred inventions like the spinning jenny",
+          "Women refused to work in cottage industries",
+          "Parliament banned the weaving of wool cloth"
+        ],
+        "correctIndex": 1,
+        "explanation": "Because weaving was much faster than hand-spinning on a traditional wheel, merchants faced constant thread shortages—directly motivating James Hargreaves's invention of the spinning jenny in 1764."
+      },
+      {
+        "id": 159,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "How did the 18th-century 'Atlantic Economy' link Britain, France, Africa, and the Americas into a dynamic commercial system?",
+        "options": [
+          "European nations ended all colonial trade to focus on domestic self-sufficiency.",
+          "Colonial plantations produced sugar, tobacco, and cotton using enslaved African labor, creating booming markets for European manufactured goods and enriching Atlantic port cities like Liverpool, Bristol, and Bordeaux",
+          "Spain monopolized 100% of North American trade until 1850.",
+          "Asian spices replaced American sugar as Europe's primary import."
+        ],
+        "correctIndex": 1,
+        "explanation": "Overseas colonial markets absorbed surging European manufacturing output, providing the capital accumulation and market demand that catalyzed the Industrial Revolution in Britain."
+      },
+      {
+        "id": 160,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "Why did British and French colonial rivalries culminate in the global Seven Years' War (1756–1763)?",
+        "options": [
+          "Disputes over religious toleration for Huguenots in Paris",
+          "Intense competition for commercial supremacy, colonies, and trade routes in North America, the Caribbean, and India",
+          "A dynastic dispute over the Russian throne",
+          "Napoleon's invasion of Prussia"
+        ],
+        "correctIndex": 1,
+        "explanation": "The Seven Years' War (French and Indian War) ended with the Treaty of Paris (1763), making Britain the world's premier colonial and naval power while leaving France deeply in debt—a direct financial trigger of the French Revolution."
+      }
+    ]
+  },
+  {
+    "unit": "French Revolution",
+    "questions": [
+      {
+        "id": 161,
+        "type": "stimulus",
+        "stimulus": "\"What is the Third Estate? Everything. What has it been hitherto in the political order? Nothing. What does it desire to be? Something.\" — Abbé Emmanuel Sieyès, January 1789",
+        "question": "Abbé Sieyès's pamphlet directly challenged which structural feature of the Estates-General convened by Louis XVI in May 1789?",
+        "options": [
+          "The exclusion of Catholic bishops from voting",
+          "Voting 'by order' (one vote per estate), which allowed the privileged First Estate (clergy) and Second Estate (nobility) to outvote the Third Estate (97% of the population) 2 to 1",
+          "The requirement that all deputies be elected by women",
+          "The abolition of the monarchy before the meeting began"
+        ],
+        "correctIndex": 1,
+        "explanation": "Sieyès argued that the Third Estate constituted the true French nation and demanded voting 'by head' rather than by order, inspiring the Third Estate to declare itself the National Assembly."
+      },
+      {
+        "id": 162,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "What was the immediate financial trigger that forced King Louis XVI to summon the Estates-General in 1789 for the first time since 1614?",
+        "options": [
+          "The cost of building the Palace of Versailles",
+          "Near-total royal bankruptcy caused by massive war debts from the Seven Years' War and the American Revolution, compounded by the nobility's refusal to surrender tax exemptions",
+          "A massive gold surplus in the French treasury",
+          "The invasion of France by Napoleon's armies"
+        ],
+        "correctIndex": 1,
+        "explanation": "Because the First and Second Estates were exempt from primary land taxes (the taille) and the Parlement of Paris blocked royal tax reforms, Louis XVI had no choice but to call the Estates-General."
+      },
+      {
+        "id": 163,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "How did the 'Great Fear' (Grande Peur) in the summer of 1789 radicalize the French Revolution?",
+        "options": [
+          "Parisian bankers fled to London with the royal treasury.",
+          "Rumors of an aristocratic plot to starve peasants led rural villagers to burn noble châteaux and destroy feudal debt records, prompting the National Assembly on August 4, 1789 to abolish feudalism and aristocratic privileges",
+          "British armies landed in Normandy and captured Versailles.",
+          "Maximilien Robespierre declared himself Emperor of France."
+        ],
+        "correctIndex": 1,
+        "explanation": "Triggered by bread shortages and panic after the storming of the Bastille, the peasant uprisings of the Great Fear forced the National Assembly to dismantle the entire legal framework of feudalism on the night of August 4."
+      },
+      {
+        "id": 164,
+        "type": "stimulus",
+        "stimulus": "\"1. Men are born and remain free and equal in rights... 3. The principle of all sovereignty resides essentially in the nation... 6. Law is the expression of the general will.\" — Declaration of the Rights of Man and of the Citizen, August 1789",
+        "question": "Which Enlightenment thinkers' ideas are most clearly reflected in the excerpts above?",
+        "options": [
+          "Thomas Hobbes and Bishop Bossuet",
+          "John Locke (natural rights and equality) and Jean-Jacques Rousseau (popular sovereignty and the general will)",
+          "Niccolò Machiavelli and Cardinal Richelieu",
+          "Klemens von Metternich and Edmund Burke"
+        ],
+        "correctIndex": 1,
+        "explanation": "Drafted largely by the Marquis de Lafayette with input from Thomas Jefferson, the Declaration synthesized Locke's natural rights, Rousseau's general will, and Montesquieu's separation of powers."
+      },
+      {
+        "id": 165,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "How did the Civil Constitution of the Clergy (1790) alienate millions of devout French peasants and Pope Pius VI from the Revolution?",
+        "options": [
+          "It restored the tithe and returned all church lands to monasteries.",
+          "It subordinated the Catholic Church to the French state, required priests and bishops to be elected by citizens and swear a loyalty oath to the nation, and confiscated church property to back assignat paper currency",
+          "It made Protestantism the sole legal religion in France.",
+          "It abolished all public holidays."
+        ],
+        "correctIndex": 1,
+        "explanation": "Forcing clergy to swear an oath of loyalty to the state over the Pope split the French church between 'juring' and 'non-juring' (refractory) priests, fueling deep counterrevolutionary resistance in rural France (such as the Vendée)."
+      },
+      {
+        "id": 166,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "Who were the 'sans-culottes' during the radical phase of the French Revolution (1792–1794)?",
+        "options": [
+          "Wealthy aristocratic émigrés living in Vienna",
+          "Working-class Parisian artisans, shopkeepers, and wage earners (wearing long trousers instead of noble knee-breeches) who pushed for direct democracy, strict price controls on bread (Law of the Maximum), and harsh punishment of counterrevolutionaries",
+          "Moderate Girondist deputies from Bordeaux",
+          "Catholic priests who refused to take the civic oath"
+        ],
+        "correctIndex": 1,
+        "explanation": "The sans-culottes provided the decisive street power that toppled the monarchy in August 1792 and allied with Robespierre's Mountain faction to enforce economic controls and the Reign of Terror."
+      },
+      {
+        "id": 167,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "Within the Jacobin Club and the National Convention, how did 'The Mountain' (Montagnards) differ from the 'Girondists'?",
+        "options": [
+          "The Girondists wanted to restore Louis XVI as an absolute monarch, while the Mountain supported the Pope.",
+          "The Mountain (led by Robespierre and Danton) allied with the radical Parisian sans-culottes, favored centralized emergency government and price controls, and demanded Louis XVI's immediate execution, whereas the Girondists favored provincial autonomy and economic laissez-faire",
+          "The Mountain opposed the Reign of Terror, while the Girondists created the guillotine.",
+          "The Girondists were exclusively rural serfs."
+        ],
+        "correctIndex": 1,
+        "explanation": "In June 1793, backed by armed sans-culottes, the Mountain purged the more moderate Girondists from the National Convention, consolidating power in the Committee of Public Safety."
+      },
+      {
+        "id": 168,
+        "type": "stimulus",
+        "stimulus": "\"If the basis of popular government in peacetime is virtue, the basis of popular government during a revolution is both virtue and terror: virtue without which terror is fatal; terror without which virtue is powerless. Terror is nothing else than swift, severe, indomitable justice.\" — Maximilien Robespierre, February 1794",
+        "question": "Robespierre justified the Reign of Terror (1793–1794) primarily as:",
+        "options": [
+          "A permanent constitutional monarchy under Napoleon",
+          "An emergency wartime measure necessary to save the fledgling Republic from foreign invasion (First Coalition) and internal royalist/federalist counterrevolution",
+          "A religious crusade to restore the Catholic Inquisition",
+          "An effort to restore feudal privileges to the French nobility"
+        ],
+        "correctIndex": 1,
+        "explanation": "Facing invasion by Austria, Prussia, Britain, and Spain alongside internal civil war in the Vendée, the Committee of Public Safety mobilized total war (levée en masse) and executed ~40,000 suspected enemies."
+      },
+      {
+        "id": 169,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "What happened during the 'Thermidorian Reaction' in July 1794?",
+        "options": [
+          "Robespierre executed all remaining members of the National Convention.",
+          "Fearing they would be the next victims of the guillotine, members of the National Convention arrested and executed Robespierre, dismantled the Reign of Terror, repealed price controls, and shifted power back to wealthy middle-class moderates",
+          "Louis XVII was crowned King of France.",
+          "The sans-culottes established a socialist commune in Paris."
+        ],
+        "correctIndex": 1,
+        "explanation": "After Robespierre hinted at a new purge list, frightened Convention deputies turned on him on 9 Thermidor (July 27, 1794), leading to his execution and the conservative Directory regime (1795–1799)."
+      },
+      {
+        "id": 170,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "How did Napoleon Bonaparte's 'Napoleonic Code' (Civil Code of 1804) preserve some gains of the French Revolution while reversing others?",
+        "options": [
+          "It restored feudal serfdom and noble tax exemptions across France.",
+          "It enshrined legal equality of all male citizens, religious toleration, and property rights, while rolling back women's rights—subordinating wives to husbands' legal authority—and curtailing political liberty and press freedom",
+          "It granted women full voting rights and equal property control.",
+          "It abolished all private property and established state-owned farms."
+        ],
+        "correctIndex": 1,
+        "explanation": "The Napoleonic Code consolidated bourgeois legal achievements (meritocracy, abolition of feudal birth privileges) across France and conquered Europe, while reimposing strict patriarchal authority in family law."
+      },
+      {
+        "id": 171,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "Why did Napoleon sign the Concordat of 1801 with Pope Pius VII?",
+        "options": [
+          "To restore all confiscated church lands to monasteries and make Catholicism the exclusive religion of France",
+          "To heal the religious division caused by the Revolution—recognizing Catholicism as the 'religion of the great majority of Frenchmen' while keeping church lands in peasant hands, paying state salaries to clergy, and maintaining religious toleration",
+          "To force the Pope to crown Napoleon as Holy Roman Emperor",
+          "To abolish Christianity in favor of the Cult of the Supreme Being"
+        ],
+        "correctIndex": 1,
+        "explanation": "A pragmatic political move, the Concordat reconciled devout French Catholics to Napoleon's regime without undoing the Revolution's land redistribution or state control over bishop appointments."
+      },
+      {
+        "id": 172,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "What was Napoleon's 'Continental System' (established via the Berlin and Milan Decrees of 1806–1807), and why did it ultimately fail?",
+        "options": [
+          "A free-trade zone between Britain and France that enriched both countries",
+          "A continent-wide economic blockade banning British goods from European ports to bankrupt Great Britain; it failed due to British naval supremacy, widespread smuggling, and severe economic harm to Napoleon's European allies (especially Russia)",
+          "A railroad network connecting Paris to Moscow",
+          "A system of democratic parliaments across the Grand Empire"
+        ],
+        "correctIndex": 1,
+        "explanation": "Unable to invade Britain after the Battle of Trafalgar (1805), Napoleon tried economic warfare, but European consumers resented the loss of British manufactures and colonial goods, leading Tsar Alexander I to break the blockade in 1810 and triggering Napoleon's disastrous 1812 invasion of Russia."
+      },
+      {
+        "id": 173,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "How did Napoleon's conquest of Germany, Spain, and Italy unintentionally accelerate the rise of modern 'nationalism'?",
+        "options": [
+          "Napoleon taught all Europeans to speak only French and forget their local languages.",
+          "French occupation, conscription, and heavy taxation provoked fierce popular resistance (such as Spanish guerrilla warfare and German cultural nationalism), uniting diverse populations around shared national identities against French rule",
+          "Napoleon restored the medieval Holy Roman Empire in 1812.",
+          "European peasants welcomed permanent French military occupation."
+        ],
+        "correctIndex": 1,
+        "explanation": "By spreading Revolutionary ideals of popular sovereignty while simultaneously exploiting conquered peoples as satellite states, Napoleon sparked reactive nationalism across Spain, Prussia, and Italy."
+      },
+      {
+        "id": 174,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "What were the guiding principles of Austrian Foreign Minister Klemens von Metternich at the Congress of Vienna (1814–1815)?",
+        "options": [
+          "Spreading democratic revolutions and universal male suffrage across Europe",
+          "Conservatism, 'legitimacy' (restoring rightful pre-1789 monarchs like the Bourbons), containment of France, and maintaining a European 'balance of power' to prevent future continental wars and revolutions",
+          "Unifying Germany and Italy into single nation-states",
+          "Abolishing all monarchies in favor of constitutional republics"
+        ],
+        "correctIndex": 1,
+        "explanation": "Metternich and the Great Powers (Britain, Austria, Prussia, Russia, and restored France) crafted a durable diplomatic settlement that ringed France with strong buffer states and preserved conservative stability for decades."
+      },
+      {
+        "id": 175,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "What was the 'Holy Alliance' proposed by Tsar Alexander I of Russia in 1815?",
+        "options": [
+          "A military coalition between France and the Ottoman Empire against Britain",
+          "A conservative pact signed by Russia, Austria, and Prussia pledging to uphold Christian principles, hereditary monarchy, and mutual intervention against liberal or nationalist revolutions",
+          "An agreement between the Pope and Martin Luther",
+          "A trade union among German merchants"
+        ],
+        "correctIndex": 1,
+        "explanation": "Part of the broader Concert of Europe, the Holy Alliance symbolized conservative solidarity among Eastern European autocracies determined to crush revolutionary movements."
+      },
+      {
+        "id": 176,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "How did the 'Declaration of the Rights of Woman and of the Female Citizen' (1791) by Olympe de Gouges challenge the French Revolution?",
+        "options": [
+          "It demanded the restoration of Queen Marie Antoinette as an absolute ruler.",
+          "It exposed the hypocrisy of male revolutionaries by demanding full legal, political, and property equality for women, arguing that women born free must remain equal to men in rights",
+          "It called for the closure of all girls' schools in Paris.",
+          "It supported the Jacobin ban on women's political clubs."
+        ],
+        "correctIndex": 1,
+        "explanation": "Olympe de Gouges directly parodied the 1789 Declaration to demand female citizenship and suffrage; she was later guillotined during the Reign of Terror as the Jacobins suppressed women's political participation."
+      },
+      {
+        "id": 177,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "What was the 'levée en masse' decreed by the Committee of Public Safety in August 1793?",
+        "options": [
+          "A massive tax cut for French aristocrats",
+          "The world's first modern nationwide total-war mobilization, conscripting all unmarried young men into the army while mobilizing women, children, and the elderly to produce weapons, uniforms, and supplies",
+          "A peace treaty surrendering Alsace-Lorraine to Prussia",
+          "The abolition of the French army in favor of Swiss mercenaries"
+        ],
+        "correctIndex": 1,
+        "explanation": "Organized by Lazare Carnot, the levée en masse created an unprecedented citizen-army of over 800,000 men driven by patriotic ideology, enabling France to defeat the First Coalition."
+      },
+      {
+        "id": 178,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "How did the Haitian Revolution (1791–1804), led by Toussaint Louverture, connect directly to the French Revolution?",
+        "options": [
+          "White plantation owners in Saint-Domingue abolished slavery voluntarily in 1789.",
+          "Enslaved Africans in France's wealthiest sugar colony (Saint-Domingue) seized upon the ideals of the Declaration of the Rights of Man, forcing the Jacobin National Convention to abolish slavery in 1794 and eventually defeating Napoleon's invasion force to establish independent Haiti",
+          "Napoleon successfully restored slavery permanently across Haiti in 1804.",
+          "Haiti was annexed by Prussia at the Congress of Vienna."
+        ],
+        "correctIndex": 1,
+        "explanation": "The Haitian Revolution tested the universalism of French revolutionary rights, resulting in the first successful slave revolt in history and the creation of the second independent republic in the Americas."
+      },
+      {
+        "id": 179,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "What was the 'Women's March on Versailles' in October 1789, and what was its immediate political outcome?",
+        "options": [
+          "Aristocratic women marched to demand higher bread prices.",
+          "Thousands of Parisian market women, furious over bread shortages and rumors of royalist insults to the tricolor cockade, marched to Versailles and forced King Louis XVI, Marie Antoinette, and the National Assembly to relocate to Paris",
+          "The march resulted in the immediate execution of Louis XVI in October 1789.",
+          "The royal family escaped to Austria during the march."
+        ],
+        "correctIndex": 1,
+        "explanation": "Bringing the King and National Assembly to Paris placed both under the direct pressure and surveillance of the radical Parisian populace."
+      },
+      {
+        "id": 180,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "Why did Georges Danton break with Maximilien Robespierre in the spring of 1794, leading to Danton's execution?",
+        "options": [
+          "Danton wanted to invade Great Britain immediately.",
+          "As French armies began winning victories against foreign coalitions, Danton and his followers ('Indulgents') argued that the Reign of Terror had outlived its emergency purpose and should be relaxed",
+          "Danton demanded that the guillotine be used on all members of the Third Estate.",
+          "Danton converted to Catholicism and allied with the Pope."
+        ],
+        "correctIndex": 1,
+        "explanation": "Viewing moderation as treason against his 'Republic of Virtue,' Robespierre eliminated both the ultra-radical Hébertists and the moderate Dantonists, isolating himself politically before Thermidor."
+      }
+    ]
+  },
+  {
+    "unit": "Industrial Revolution",
+    "questions": [
+      {
+        "id": 181,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "Which combination of geographic, economic, and institutional factors explains why the Industrial Revolution began in Great Britain in the late 18th century?",
+        "options": [
+          "Strict guild monopolies, internal customs tolls, and abundant serf labor",
+          "Abundant accessible coal and iron deposits, navigable rivers and canals, capital from colonial/Atlantic trade, a stable constitutional government protecting property rights, and displaced rural labor from enclosure",
+          "Massive state-owned factories built by absolute monarchs",
+          "Complete isolation from international markets and maritime shipping"
+        ],
+        "correctIndex": 1,
+        "explanation": "Britain possessed an unmatched convergence of natural resources (coal/iron), financial institutions (Bank of England), colonial markets, and pro-business parliamentary stability."
+      },
+      {
+        "id": 182,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "How did James Hargreaves's 'spinning jenny' (1764) and Richard Arkwright's 'water frame' (1769) transform textile manufacturing?",
+        "options": [
+          "They slowed down thread production to protect hand-spinners' wages.",
+          "They mechanized and multiplied yarn production—with Arkwright's heavy water-powered frame requiring workers to leave cottages and gather in centralized water-driven factories",
+          "They replaced cotton with silk as Britain's primary export.",
+          "They were powered exclusively by coal-burning locomotives."
+        ],
+        "correctIndex": 1,
+        "explanation": "While the hand-cranked spinning jenny could still be used in cottages, the massive water frame required waterwheel power, giving birth to the modern factory system."
+      },
+      {
+        "id": 183,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "Why was James Watt's improved rotary 'steam engine' (1770s–1780s) the pivotal breakthrough of the Industrial Revolution?",
+        "options": [
+          "It eliminated the need for coal mining across Britain.",
+          "It freed factories from dependence on fast-flowing rural rivers, allowing industrial mills to be built in coal-rich urban centers and powering locomotives and steamships",
+          "It was invented in Russia and exported to London.",
+          "It ran exclusively on solar and wind power."
+        ],
+        "correctIndex": 1,
+        "explanation": "By adding a separate condenser and rotary motion, Watt transformed Thomas Newcomen's inefficient mine pump into a versatile prime mover for factories, ironworks, and railways."
+      },
+      {
+        "id": 184,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "What was the significance of George Stephenson's 'Rocket' locomotive on the Liverpool and Manchester Railway in 1829–1830?",
+        "options": [
+          "It was the first submarine to cross the English Channel.",
+          "It demonstrated the speed, reliability, and commercial viability of steam railways, sparking a railway boom that slashed overland shipping costs, connected regional markets, and stimulated iron and coal demand",
+          "It proved that horse-drawn wagons were faster than steam engines.",
+          "It was banned by Parliament to protect canal owners."
+        ],
+        "correctIndex": 1,
+        "explanation": "Winning the Rainhill Trials at nearly 30 mph, Stephenson's Rocket launched the railway age, revolutionizing European transport, urbanization, and heavy industry."
+      },
+      {
+        "id": 185,
+        "type": "stimulus",
+        "stimulus": "\"We are ruined by these accursed shearing frames and power looms that throw honest skilled croppers and weavers out of work, leaving our children to starve while factory masters grow rich on shoddy cloth.\"",
+        "question": "The grievances expressed above motivated which early-19th-century British protest movement?",
+        "options": [
+          "The Physiocrats",
+          "The Luddites (1811–1816), skilled artisans who smashed textile machinery that threatened their livelihoods and traditional craft autonomy",
+          "The Anti-Corn Law League",
+          "The Chartists"
+        ],
+        "correctIndex": 1,
+        "explanation": "Named after mythical leader Ned Ludd, the Luddites were displaced handloom weavers and croppers who destroyed labor-saving machinery until Parliament made frame-breaking a capital offense."
+      },
+      {
+        "id": 186,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "What were the major provisions of the British 'Factory Act of 1833'?",
+        "options": [
+          "It abolished all factories and returned workers to rural cottages.",
+          "It banned the employment of children under age 9 in textile mills, limited work hours for older children (ages 9–13 to 8 hours; 14–18 to 12 hours), required two hours of daily schooling, and appointed paid government factory inspectors",
+          "It established a universal minimum wage for all adult male factory workers.",
+          "It legalized strikes and closed all coal mines."
+        ],
+        "correctIndex": 1,
+        "explanation": "Following the Sadler Committee investigations into brutal child labor, the Factory Act of 1833 created the first enforceable state inspections and curtailed child labor in textile mills."
+      },
+      {
+        "id": 187,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "What did the British 'Mines Act of 1842' prohibit?",
+        "options": [
+          "The export of British coal to France and Germany",
+          "The employment of all women and girls, as well as boys under the age of 10, underground in coal mines",
+          "The use of steam engines to pump water out of mines",
+          "The formation of mine-owners' associations"
+        ],
+        "correctIndex": 1,
+        "explanation": "Prompted by shocking parliamentary reports revealing half-naked women and young children hauling coal carts through narrow tunnels, the Mines Act of 1842 barred females and young boys from underground mining."
+      },
+      {
+        "id": 188,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "Why did British industrialists and middle-class liberals campaign fiercely to repeal the 'Corn Laws' (achieved in 1846)?",
+        "options": [
+          "They wanted to ban the import of American maize.",
+          "The Corn Laws placed high tariffs on imported grain to protect aristocratic landlords, keeping bread prices artificially high—which forced industrialists to pay higher wages and hindered free trade",
+          "They wanted to restore feudal agricultural taxes.",
+          "The Corn Laws subsidized factory workers' housing."
+        ],
+        "correctIndex": 1,
+        "explanation": "Led by Richard Cobden and John Bright's Anti-Corn Law League, and accelerated by the Irish Potato Famine, repeal in 1846 marked a decisive triumph of industrial middle-class free trade over landed aristocratic protectionism."
+      },
+      {
+        "id": 189,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "How did the British 'Reform Bill of 1832' reshape British politics during the Industrial Revolution?",
+        "options": [
+          "It granted universal suffrage to all adult men and women.",
+          "It eliminated depopulated 'rotten boroughs,' granted parliamentary representation to booming new industrial cities like Manchester and Birmingham, and expanded the electorate to include middle-class property-owning men—averting violent revolution",
+          "It abolished the House of Commons and restored absolute monarchy.",
+          "It gave voting rights exclusively to industrial factory workers."
+        ],
+        "correctIndex": 1,
+        "explanation": "While leaving working-class men disenfranchised (sparking the Chartist movement), the Reform Bill of 1832 integrated the wealthy industrial bourgeoisie into Britain's political establishment."
+      },
+      {
+        "id": 190,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "Why did continental European countries (such as France, Germany, and Russia) industrialize later than Great Britain?",
+        "options": [
+          "Continental Europe had no rivers, coal, or cities.",
+          "The disruptions of the French Revolution and Napoleonic Wars, political fragmentation (especially in Germany), guild restrictions, poor transportation infrastructure, and scarcity of entrepreneurial capital delayed continental industrialization until after 1815–1830",
+          "Continental monarchs banned all steam engines until 1900.",
+          "Britain conquered all of continental Europe in 1815."
+        ],
+        "correctIndex": 1,
+        "explanation": "Decades of warfare (1792–1815) and tariff barriers slowed continental Europe; when it caught up in the mid-19th century, governments and investment banks (like Crédit Mobilier) played a much larger state-directed role."
+      },
+      {
+        "id": 191,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "What was the 'Zollverein' established in 1834 under Prussian leadership?",
+        "options": [
+          "A military alliance between Prussia and France against Britain",
+          "A German customs union that abolished internal tariffs among most German states while maintaining a common external tariff, stimulating industrial growth and economic unification",
+          "A socialist labor union of Ruhr coal miners",
+          "A religious council uniting Lutherans and Catholics"
+        ],
+        "correctIndex": 1,
+        "explanation": "Proposed by economist Friedrich List, the Zollverein created a unified German free-trade market that accelerated railway building and laid the economic groundwork for German political unification."
+      },
+      {
+        "id": 192,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "How did industrialization transform European family structure and gender roles among the middle class in the 19th century?",
+        "options": [
+          "Middle-class women took over management of major banks and steel mills.",
+          "Work separated from the home, giving rise to the ideology of 'separate spheres'—men occupied the competitive public sphere of business and politics, while women were idealized as moral guardians of the private domestic sphere",
+          "Middle-class families abolished marriage and raised children communally.",
+          "Men stayed home to raise children while women worked in coal mines."
+        ],
+        "correctIndex": 1,
+        "explanation": "Unlike pre-industrial family workshops where all members labored together, industrial capitalism separated workplace and household, reinforcing Victorian domesticity for bourgeois women."
+      },
+      {
+        "id": 193,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "What were the living conditions in rapidly growing early-19th-century industrial cities like Manchester, Liverpool, and Lille?",
+        "options": [
+          "Clean, spacious garden suburbs with indoor plumbing and low mortality rates",
+          "Severe overcrowding in poorly built tenements, lack of sewage or clean water systems, coal-smoke pollution, and rampant outbreaks of cholera and tuberculosis that lowered urban life expectancy",
+          "Completely empty because workers lived on rural estates",
+          "Regulated by strict municipal zoning laws from 1780 onward"
+        ],
+        "correctIndex": 1,
+        "explanation": "Rapid urbanization outpaced municipal infrastructure, prompting public health reformers like Edwin Chadwick to advocate sanitation and sewer systems in the 1840s."
+      },
+      {
+        "id": 194,
+        "type": "stimulus",
+        "stimulus": "\"The history of all hitherto existing society is the history of class struggles... Freeman and slave, patrician and plebeian, lord and serf... Bourgeoisie and Proletariat.\" — Karl Marx and Friedrich Engels, The Communist Manifesto, 1848",
+        "question": "According to Marx and Engels, how would the industrial class struggle ultimately resolve?",
+        "options": [
+          "Through peaceful parliamentary reform led by King Louis Philippe",
+          "The impoverished industrial working class (proletariat) would violently overthrow the capitalist owners (bourgeoisie), abolish private property, and establish a classless communist society",
+          "The feudal nobility would restore medieval guilds across Europe",
+          "Laissez-faire capitalism would naturally eliminate all poverty without state intervention"
+        ],
+        "correctIndex": 1,
+        "explanation": "Analyzing industrial capitalism in Manchester and across Europe, Marx and Engels argued that economic forces drive historical change through dialectical class conflict."
+      },
+      {
+        "id": 195,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "What did classical economist Thomas Malthus argue in his 'Essay on the Principle of Population' (1798)?",
+        "options": [
+          "Industrial technology would permanently eliminate poverty within ten years.",
+          "Population grows geometrically while food supply grows only arithmetically, meaning war, famine, and disease are inevitable natural checks unless workers practice 'moral restraint' (delayed marriage), and government poor relief only worsens overpopulation",
+          "Governments should double wages for all factory workers.",
+          "Emigration to Australia would solve all European poverty."
+        ],
+        "correctIndex": 1,
+        "explanation": "Along with David Ricardo's 'Iron Law of Wages,' Malthus's pessimistic theory was used by laissez-faire industrialists to oppose welfare and minimum-wage laws."
+      },
+      {
+        "id": 196,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "How did 'Utopian Socialists' such as Robert Owen, Charles Fourier, and Henri de Saint-Simon seek to address the social problems of early industrialization?",
+        "options": [
+          "By organizing violent armed coups to execute factory owners",
+          "By designing cooperative, harmonious model communities (such as Owen's New Lanark) with fair wages, decent housing, and education, believing rational persuasion and cooperation could replace cutthroat capitalist competition",
+          "By supporting the Corn Laws and child labor",
+          "By calling for the restoration of absolute monarchy"
+        ],
+        "correctIndex": 1,
+        "explanation": "Before Marx's 'scientific socialism,' early socialists like factory owner Robert Owen demonstrated that humane working conditions and education could coexist with productivity."
+      },
+      {
+        "id": 197,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "What was the 'Chartist Movement' in Britain during the late 1830s and 1840s?",
+        "options": [
+          "A campaign by aristocratic landlords to raise grain tariffs",
+          "The first large-scale working-class political movement, petitioning Parliament for the 'People's Charter'—demanding universal male suffrage, secret ballots, annual parliaments, and salaries for MPs",
+          "An association of mapmakers charting the Pacific Ocean",
+          "A movement to abolish the British monarchy"
+        ],
+        "correctIndex": 1,
+        "explanation": "Disappointed that the Reform Bill of 1832 excluded workers, millions signed Chartist petitions; though initially rejected by Parliament, nearly all Chartist demands were enacted over subsequent decades."
+      },
+      {
+        "id": 198,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "What did Britain's 'Great Exhibition of 1851' at the Crystal Palace in London symbolize?",
+        "options": [
+          "The collapse of British manufacturing and return to agrarian feudalism",
+          "Britain's status as the 'workshop of the world'—showcasing industrial machinery, iron-and-glass engineering, imperial goods, and mid-Victorian confidence in technological progress",
+          "The victory of the French Revolution over the British monarchy",
+          "The abolition of all railways in Great Britain"
+        ],
+        "correctIndex": 1,
+        "explanation": "Housed in Joseph Paxton's prefabricated glass-and-iron Crystal Palace, the 1851 exhibition celebrated Britain's unmatched industrial and commercial supremacy."
+      },
+      {
+        "id": 199,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "How did the 'Combination Acts' (1799–1800) in Great Britain affect early industrial workers?",
+        "options": [
+          "They required every factory owner to recognize labor unions.",
+          "Passed during the Napoleonic Wars out of fear of Jacobin-style radicalism, they outlawed trade unions and collective bargaining strikes until their repeal in 1824",
+          "They merged coal mines and textile factories under state ownership.",
+          "They granted free university education to all factory apprentices."
+        ],
+        "correctIndex": 1,
+        "explanation": "Parliament used the Combination Acts to suppress working-class organization and strikes, leaving early factory workers vulnerable to long hours and low wages."
+      },
+      {
+        "id": 200,
+        "type": "non-stimulus",
+        "stimulus": null,
+        "question": "How did the Industrial Revolution alter the global balance of power between Europe and Asia in the 19th century?",
+        "options": [
+          "China and India industrialized first and colonized Western Europe.",
+          "Industrialized European powers—armed with steamships, railways, precision rifles, and mass-produced textiles—reversed centuries of Asian manufacturing dominance (such as Indian cotton textiles) and established unprecedented global economic and imperial hegemony",
+          "Europe stopped trading with Asia completely after 1800.",
+          "The Ottoman Empire conquered Great Britain using steam locomotives."
+        ],
+        "correctIndex": 1,
+        "explanation": "Prior to 1750, China and India accounted for the majority of global manufacturing; mechanized British textiles flooded Asian markets, deindustrializing India and giving Europe overwhelming military-industrial leverage."
+      }
+    ]
+  }
+]
