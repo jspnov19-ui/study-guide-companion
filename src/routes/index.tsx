@@ -15,7 +15,7 @@ import ChronologiesView from "../components/ChronologiesView";
 import KeyTermsSuite from "../components/KeyTermsSuite";
 import { loadLocalMastery, saveLocalMastery } from "../lib/mastery";
 
-export const Route = createFileRoute("/")({ component: Index, head: () => ({ meta: [{ title: "AP Euro Mastery Hub" }, { name: "description", content: "Your personal command center for AP European History." }] }) });
+export const Route = createFileRoute("/")({ component: Index, head: () => ({ meta: [{ title: "EuroWise | AP Euro Study Guide & Practice" }, { name: "description", content: "Study AP European History with 10 focused unit pages, interactive timelines, 147 tracked terms, textbook chronologies, and practice MCQs." }, { property: "og:title", content: "EuroWise | AP Euro Study Guide & Practice" }, { property: "og:description", content: "Study AP European History with 10 focused unit pages, interactive timelines, 147 tracked terms, textbook chronologies, and practice MCQs." }, { name: "twitter:title", content: "EuroWise | AP Euro Study Guide & Practice" }, { name: "twitter:description", content: "Study AP European History with 10 focused unit pages, interactive timelines, 147 tracked terms, textbook chronologies, and practice MCQs." }] }) });
 type View = "study" | "timeline" | "exam" | "chronologies" | "key-terms" | "units";
 type Chapter = { chapter:number; title:string; events:{date:string;event:string}[] };
 type KeyTerm = {term:string;definition:string;page:string};

@@ -4,7 +4,7 @@ import { CURRICULUM } from "../data/curriculum";
 
 export const Route = createFileRoute("/study-guide")({
   component: StudyGuide,
-  head: () => ({ meta: [{ title: "Fall Semester Study Guide | EuroWise" }, { name: "description", content: "The original AP European History semester study guide and its ten core categories." }] }),
+  head: () => ({ meta: [{ title: "Fall Semester Study Guide | EuroWise" }, { name: "description", content: "View the AP European History fall semester study guide and browse its 10 core categories." }, { property: "og:title", content: "Fall Semester Study Guide | EuroWise" }, { property: "og:description", content: "View the AP European History fall semester study guide and browse its 10 core categories." }, { name: "twitter:title", content: "Fall Semester Study Guide | EuroWise" }, { name: "twitter:description", content: "View the AP European History fall semester study guide and browse its 10 core categories." }] }),
 });
 
 function StudyGuide() {

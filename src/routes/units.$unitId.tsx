@@ -7,7 +7,9 @@ export const Route = createFileRoute("/units/$unitId")({
   component: UnitRoute,
   head: ({ params }) => {
     const unit = CURRICULUM.find((item) => item.id === params.unitId);
-    return { meta: [{ title: unit ? `${unit.title} | EuroWise` : "Study category | EuroWise" }, { name: "description", content: unit?.summary ?? "AP European History category study page." }] };
+    const title = unit ? `${unit.title} | EuroWise AP Euro` : "Study category | EuroWise";
+    const description = unit ? `${unit.summary} Explore milestones and tracked vocabulary for AP European History.` : "Explore an AP European History category with EuroWise.";
+    return { meta: [{ title }, { name: "description", content: description }, { property: "og:title", content: title }, { property: "og:description", content: description }, { name: "twitter:title", content: title }, { name: "twitter:description", content: description }] };
   },
 });
 
